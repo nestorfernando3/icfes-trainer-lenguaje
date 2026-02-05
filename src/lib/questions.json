@@ -1,0 +1,1502 @@
+[
+  {
+    "id": 1,
+    "topic": "1 Lectura crítica: textos expositivos sobre medio ambiente y sociedad",
+    "text": "Texto 1. Lee el siguiente fragmento de un artículo de El Espectador sobre la ampliación de la Reserva Van der Hammen y responde las preguntas 1–5.",
+    "question": "Identifique qué propone la administración para ampliar la reserva:",
+    "options": [
+      "Vender las 184,50 hectáreas de la reserva.",
+      "Permitir la construcción dentro de la reserva sin compensación.",
+      "Transferir derechos de construcción a cambio de restaurar la zona protegida.",
+      "Conceder licencias de explotación minera dentro de la reserva."
+    ],
+    "correctAnswer": 2,
+    "explanation": "los propietarios de 184,50 hectáreas reciben derechos para construir en otras zonas a cambio de permitir la restauración de la reserva.",
+    "source": "Artículo de El Espectador."
+  },
+  {
+    "id": 2,
+    "topic": "1 Lectura crítica: textos expositivos sobre medio ambiente y sociedad",
+    "text": "Texto 1. Lee el siguiente fragmento de un artículo de El Espectador sobre la ampliación de la Reserva Van der Hammen y responde las preguntas 1–5.",
+    "question": "Identifique qué cifras se dan sobre el proyecto de restauración en los Cerros Orientales:",
+    "options": [
+      "Restaurar 184,50 hectáreas y ampliar la reserva a 172 499 hectáreas.",
+      "Restaurar 897,61 hectáreas con una meta de 1 300 hectáreas.",
+      "Invertir 92 millones en adaptaciones de 1 300 hectáreas y restaurar 172 499 hectáreas.",
+      "Construir 92 hectáreas de vivienda y vender 897 millones de dólares."
+    ],
+    "correctAnswer": 1,
+    "explanation": "El artículo menciona que el proyecto de adaptación ambiental destinará cerca de 92 millones de dólares para intervenir 172 499 hectáreas y que se restaurarán 897,61 hectáreas, con el objetivo de llegar a 1 300 hectáreas.",
+    "source": "Artículo de El Espectador."
+  },
+  {
+    "id": 3,
+    "topic": "1 Lectura crítica: textos expositivos sobre medio ambiente y sociedad",
+    "text": "Texto 1. Lee el siguiente fragmento de un artículo de El Espectador sobre la ampliación de la Reserva Van der Hammen y responde las preguntas 1–5.",
+    "question": "De acuerdo con el fragmento, ¿qué implica la afirmación “el objetivo prioritario es cuidar el agua y la biodiversidad”?",
+    "options": [
+      "Construir viviendas en la reserva.",
+      "Proteger los recursos hídricos y las especies de la zona.",
+      "Aumentar el turismo en la reserva Van der Hammen.",
+      "Promover el uso recreativo de la zona sin restaurarla."
+    ],
+    "correctAnswer": 1,
+    "explanation": "La frase citada explica que la prioridad es cuidar el agua y la biodiversidad, lo que se refiere a proteger las fuentes hídricas y la flora y fauna de la reserva.",
+    "source": "Artículo de El Espectador."
+  },
+  {
+    "id": 4,
+    "topic": "1 Lectura crítica: textos expositivos sobre medio ambiente y sociedad",
+    "text": "Texto 1. Lee el siguiente fragmento de un artículo de El Espectador sobre la ampliación de la Reserva Van der Hammen y responde las preguntas 1–5.",
+    "question": "¿Cuántas hectáreas están contempladas en el proyecto de adaptación ambiental y cuánto dinero se planea invertir, según el texto?",
+    "options": [
+      "172 499 hectáreas y 92 millones de dólares.",
+      "897,61 hectáreas y 184 millones de dólares.",
+      "1 300 hectáreas y 184,50 millones de pesos.",
+      "184,50 hectáreas y 92 millones de pesos."
+    ],
+    "correctAnswer": 0,
+    "explanation": "El artículo precisa que el proyecto de adaptación abarcará 172 499 hectáreas y requerirá una inversión cercana a 92 millones de dólares.",
+    "source": "Artículo de El Espectador."
+  },
+  {
+    "id": 5,
+    "topic": "1 Lectura crítica: textos expositivos sobre medio ambiente y sociedad",
+    "text": "Texto 1. Lee el siguiente fragmento de un artículo de El Espectador sobre la ampliación de la Reserva Van der Hammen y responde las preguntas 1–5.",
+    "question": "El fragmento menciona que se restaurarán 897,61 hectáreas y que la meta es llegar a 1 300 hectáreas. ¿Qué representa esta meta?",
+    "options": [
+      "La superficie construida que se autorizó en la reserva.",
+      "La cantidad de hectáreas que se pretende recuperar en los Cerros Orientales.",
+      "El área de bosque que se va a talar para urbanizar.",
+      "El valor monetario de las hectáreas vendidas."
+    ],
+    "correctAnswer": 1,
+    "explanation": "La meta de 1 300 hectáreas se refiere a la extensión de ecosistema que se desea restaurar en los Cerros Orientales. “El país está viviendo una crisis de agua. La suspensión del proyecto Chingaza 2, destinado a garantizar el abastecimiento de Bogotá y su región, nos dejó sin infraestructura adicional para enfrentar la sequía. Por ello, se implementó racionamiento, lo cual ha permitido que el embalse tenga 48 millones de m³ más de agua que antes. Sin embargo, la resolución del Ministerio de Ambiente se cuestiona porque, según los críticos, se expidió sin la debida participación y con escasa claridad jurídica. Podría afectar hasta 206 000 viviendas y detener importantes proyectos viales y de vivienda.”",
+    "source": "Artículo de El Espectador."
+  },
+  {
+    "id": 6,
+    "topic": "1 Lectura crítica: textos expositivos sobre medio ambiente y sociedad",
+    "text": "Texto 2. Lee el siguiente fragmento de un artículo de opinión sobre la crisis hídrica y la resolución del Ministerio de Ambiente y responde las preguntas 6–8.",
+    "question": "Explique la razón por la cual se implementó el racionamiento de agua, según el artículo:",
+    "options": [
+      "Para aumentar el consumo de agua en la ciudad.",
+      "Porque el embalse tiene 48 millones de m³ menos de agua que antes.",
+      "Porque no se construyó la segunda fase del proyecto Chingaza y se enfrentaba sequía.",
+      "Para vender agua a otros municipios."
+    ],
+    "correctAnswer": 2,
+    "explanation": "El texto explica que la suspensión del proyecto Chingaza 2 dejó a la región sin capacidad adicional; ante la sequía se implementó un racionamiento.",
+    "source": "Artículo de opinión."
+  },
+  {
+    "id": 7,
+    "topic": "1 Lectura crítica: textos expositivos sobre medio ambiente y sociedad",
+    "text": "Texto 2. Lee el siguiente fragmento de un artículo de opinión sobre la crisis hídrica y la resolución del Ministerio de Ambiente y responde las preguntas 6–8.",
+    "question": "De acuerdo con el fragmento, ¿qué crítica se hace a la resolución del Ministerio de Ambiente?",
+    "options": [
+      "Que se elaboró con amplia participación ciudadana.",
+      "Que se expidió sin suficiente participación y puede detener proyectos de vivienda y vías.",
+      "Que promueve el aumento de las construcciones en la reserva Van der Hammen.",
+      "Que incluye un plan financiero detallado y transparente."
+    ],
+    "correctAnswer": 1,
+    "explanation": "El texto señala que la resolución se cuestiona por falta de participación y claridad jurídica.",
+    "source": "Artículo de opinión."
+  },
+  {
+    "id": 8,
+    "topic": "1 Lectura crítica: textos expositivos sobre medio ambiente y sociedad",
+    "text": "Texto 2. Lee el siguiente fragmento de un artículo de opinión sobre la crisis hídrica y la resolución del Ministerio de Ambiente y responde las preguntas 6–8.",
+    "question": "El artículo afirma que la resolución podría afectar hasta 206 000 viviendas. ¿Qué implicación tiene esto en el debate público?",
+    "options": [
+      "Que la resolución facilita la construcción de vivienda social.",
+      "Que la resolución podría congelar proyectos de vivienda y viales importantes.",
+      "Que la resolución es aplaudida por los constructores.",
+      "Que la resolución reduce la cantidad de racionamientos."
+    ],
+    "correctAnswer": 1,
+    "explanation": "La frase “podría afectar hasta 206 000 viviendas” implica que la resolución podría paralizar proyectos. “Un reciente estudio encontró que el 91 % de los colombianos está interesado en temas ambientales y el 86 % considera que estos temas afectan su vida cotidiana. La encuesta revela que el 60 % cree que los ciudadanos son los principales responsables de la crisis ambiental, pero también de su solución. Entre los problemas que más preocupan se encuentran el reciclaje y la gestión de residuos (37,9 %), la reducción del uso de plásticos (21,9 %), la contaminación del aire (18,7 %) y el cambio climático (18,2 %). Además, el 51,5 % sostiene que la solución depende de la acción colectiva; en la población joven (16–28 años) solo el 25 % conoce organizaciones ambientales y los adultos (29–43 años) lideran en participación. Un 60 % de los encuestados cree que todavía hay tiempo para evitar un colapso climático si se cambia de actitud y se brinda información clara.”",
+    "source": "Artículo de opinión."
+  },
+  {
+    "id": 9,
+    "topic": "2 Lectura crítica: encuesta sobre conciencia ambiental",
+    "text": "Texto 3. Lee el siguiente fragmento del informe sobre la encuesta de conciencia ambiental realizada por Valora Analitik y responde las preguntas 9–15.",
+    "question": "Según el estudio, ¿qué porcentaje de colombianos está interesado en temas ambientales?",
+    "options": [
+      "60 %",
+      "51,5 %",
+      "91 %",
+      "86 %"
+    ],
+    "correctAnswer": 2,
+    "explanation": "El texto señala que 91 % de los encuestados manifestó interés.",
+    "source": "Informe de Valora Analitik."
+  },
+  {
+    "id": 10,
+    "topic": "2 Lectura crítica: encuesta sobre conciencia ambiental",
+    "text": "Texto 3. Lee el siguiente fragmento del informe sobre la encuesta de conciencia ambiental realizada por Valora Analitik y responde las preguntas 9–15.",
+    "question": "Determine de las siguientes problemáticas ambientales aparece como la más preocupante para los encuestados, según el informe:",
+    "options": [
+      "El cambio climático.",
+      "La contaminación del aire.",
+      "La reducción del uso de plásticos.",
+      "El reciclaje y la gestión de residuos."
+    ],
+    "correctAnswer": 3,
+    "explanation": "El informe indica que 37,9 % considera que el problema más inquietante es el reciclaje.",
+    "source": "Informe de Valora Analitik."
+  },
+  {
+    "id": 11,
+    "topic": "2 Lectura crítica: encuesta sobre conciencia ambiental",
+    "text": "Texto 3. Lee el siguiente fragmento del informe sobre la encuesta de conciencia ambiental realizada por Valora Analitik y responde las preguntas 9–15.",
+    "question": "Identifique qué porcentaje de encuestados cree que los ciudadanos son responsables de la crisis ambiental y de su solución:",
+    "options": [
+      "86 %",
+      "51,5 %",
+      "60 %",
+      "25 %"
+    ],
+    "correctAnswer": 2,
+    "explanation": "La encuesta indica que 60 % considera a los ciudadanos como responsables.",
+    "source": "Informe de Valora Analitik."
+  },
+  {
+    "id": 12,
+    "topic": "2 Lectura crítica: encuesta sobre conciencia ambiental",
+    "text": "Texto 3. Lee el siguiente fragmento del informe sobre la encuesta de conciencia ambiental realizada por Valora Analitik y responde las preguntas 9–15.",
+    "question": "Según el texto, ¿cuál es la postura mayoritaria frente a la solución de la crisis ambiental?",
+    "options": [
+      "Esperar a que los gobiernos actúen por sí solos.",
+      "Apostar por la acción colectiva de la ciudadanía.",
+      "Que solo el sector empresarial tiene la responsabilidad.",
+      "Desconocer la existencia de problemas ambientales."
+    ],
+    "correctAnswer": 1,
+    "explanation": "51,5 % de los encuestados cree que la solución depende de la acción colectiva.",
+    "source": "Informe de Valora Analitik."
+  },
+  {
+    "id": 13,
+    "topic": "2 Lectura crítica: encuesta sobre conciencia ambiental",
+    "text": "Texto 3. Lee el siguiente fragmento del informe sobre la encuesta de conciencia ambiental realizada por Valora Analitik y responde las preguntas 9–15.",
+    "question": "Identifique qué diferencia se observa entre los jóvenes (16–28 años) y los adultos (29–43 años) en relación con las organizaciones ambientales:",
+    "options": [
+      "Los jóvenes conocen más organizaciones.",
+      "Ambos grupos conocen la misma cantidad.",
+      "Los jóvenes conocen menos organizaciones (25 %) y los adultos lideran.",
+      "Los adultos no participan."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Solo 25 % de los jóvenes identifica organizaciones.",
+    "source": "Informe de Valora Analitik."
+  },
+  {
+    "id": 14,
+    "topic": "2 Lectura crítica: encuesta sobre conciencia ambiental",
+    "text": "Texto 3. Lee el siguiente fragmento del informe sobre la encuesta de conciencia ambiental realizada por Valora Analitik y responde las preguntas 9–15.",
+    "question": "Identifique qué porcentaje de personas cree que aún hay tiempo para evitar un colapso climático si se cambia la actitud:",
+    "options": [
+      "51,5 %",
+      "86 %",
+      "60 %",
+      "25 %"
+    ],
+    "correctAnswer": 2,
+    "explanation": "El 60 % de los encuestados piensa que todavía es posible.",
+    "source": "Informe de Valora Analitik."
+  },
+  {
+    "id": 15,
+    "topic": "2 Lectura crítica: encuesta sobre conciencia ambiental",
+    "text": "Texto 3. Lee el siguiente fragmento del informe sobre la encuesta de conciencia ambiental realizada por Valora Analitik y responde las preguntas 9–15.",
+    "question": "De acuerdo con la encuesta, ¿por qué es importante brindar información clara y permitir la participación ciudadana?",
+    "options": [
+      "Porque la mayoría desconoce organizaciones.",
+      "Porque un 60 % cree que hay tiempo para cambiar si se tiene información.",
+      "Porque solo los gobiernos pueden resolver.",
+      "Porque la participación ciudadana retrasa."
+    ],
+    "correctAnswer": 1,
+    "explanation": "El 60 % cree que aún se puede evitar si se tiene información clara. “Según la guía, la prueba de Lectura Crítica se compone de textos continuos y discontinuos. Los continuos se leen de manera secuencial (en frases o párrafos), mientras que los discontinuos incluyen tablas, gráficos o infografías. Los textos continuos pueden ser literarios (novelas, cuentos, poemas) o informativos (ensayos, columnas, crónicas), y los discontinuos pueden ser literarios (cómic) o informativos (infografía, reglamento). La distribución de preguntas asigna 30 % a textos continuos informativos no filosóficos, 24 % a textos continuos literarios, 30 % a textos continuos informativos-filosóficos, y 8 % a cada tipo de textos discontinuos. La guía también indica que algunos niveles de desempeño implican identificar información local, articular elementos y evaluar argumentos.”",
+    "source": "Informe de Valora Analitik."
+  },
+  {
+    "id": 16,
+    "topic": "3 Lectura crítica: comprensión de especificaciones del ICFES",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Determine es la diferencia entre los textos continuos e informativos y los discontinuos, según la guía del ICFES:",
+    "options": [
+      "Los textos continuos se presentan con imágenes únicamente.",
+      "Los textos discontinuos tienen una estructura lineal.",
+      "Los textos continuos se leen en secuencia y los discontinuos presentan tablas.",
+      "No existe ninguna diferencia."
+    ],
+    "correctAnswer": 2,
+    "explanation": "La guía distingue textos continuos, secuenciales, y discontinuos, con tablas.",
+    "source": "Guía Saber 11."
+  },
+  {
+    "id": 17,
+    "topic": "3 Lectura crítica: comprensión de especificaciones del ICFES",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Identifique qué porcentaje de preguntas se dedica a textos continuos informativos no filosóficos:",
+    "options": [
+      "24 %",
+      "30 %",
+      "8 %",
+      "42 %"
+    ],
+    "correctAnswer": 1,
+    "explanation": "La tabla de distribución señala que 30 % se asigna a informativos no filosóficos.",
+    "source": "Guía Saber 11."
+  },
+  {
+    "id": 18,
+    "topic": "3 Lectura crítica: comprensión de especificaciones del ICFES",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "La guía indica que el nivel de desempeño relacionado con identificar información local y articular elementos corresponde a:",
+    "options": [
+      "Comprender la estructura profunda.",
+      "Reconocer la relación entre elementos y extraer inferencias simples.",
+      "Memorizar datos.",
+      "Redactar un ensayo."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Implica articular elementos y derivar implicaciones.",
+    "source": "Guía Saber 11."
+  },
+  {
+    "id": 19,
+    "topic": "3 Lectura crítica: comprensión de especificaciones del ICFES",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Determine es la categoría de textos continuos que recibe el mayor porcentaje de preguntas:",
+    "options": [
+      "Textos literarios discontinuos.",
+      "Textos continuos informativos no filosóficos.",
+      "Textos continuos literarios.",
+      "Textos discontinuos informativos."
+    ],
+    "correctAnswer": 1,
+    "explanation": "La categoría con mayor peso es la de textos informativos no filosóficos (30 %).",
+    "source": "Guía Saber 11."
+  },
+  {
+    "id": 20,
+    "topic": "3 Lectura crítica: comprensión de especificaciones del ICFES",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Determine de las siguientes afirmaciones es verdadera acerca de los textos literarios:",
+    "options": [
+      "Representan el 42 %.",
+      "Son parte de los textos continuos y representan el 24 %.",
+      "Son exclusivamente cómics.",
+      "Incluyen solo novelas."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Los textos literarios continuos representan el 24 % del total.",
+    "source": "Guía Saber 11."
+  },
+  {
+    "id": 21,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Según el Diccionario de la rAE, ¿qué es la hipérbole?",
+    "options": [
+      "Comparar con 'como'.",
+      "Exagerar de manera intencional.",
+      "Atribuir cualidades humanas.",
+      "Repetir sonidos."
+    ],
+    "correctAnswer": 1,
+    "explanation": "La hipérbole es una figura que exagera al aumentar o disminuir.",
+    "source": "Diccionario RAE."
+  },
+  {
+    "id": 22,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Una hipérbole es una figura literaria que exagera. ¿Qué frase contiene una hipérbole?",
+    "options": [
+      "Lloró a mares.",
+      "Manos frías como hielo.",
+      "El perro ladra.",
+      "El sonido se repite."
+    ],
+    "correctAnswer": 0,
+    "explanation": "“Lloró a mares” exagera desproporcionadamente.",
+    "source": "RAE."
+  },
+  {
+    "id": 23,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "La figura retórica símil se caracteriza por:",
+    "options": [
+      "Cualidades humanas.",
+      "Repetir sonidos consonantes.",
+      "Comparar con 'como' o 'tal'.",
+      "Exagerar."
+    ],
+    "correctAnswer": 2,
+    "explanation": "El símil compara dos términos con partículas comparativas.",
+    "source": "RAE."
+  },
+  {
+    "id": 24,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Identifique qué frase contiene un símil:",
+    "options": [
+      "Tus ojos son luceros.",
+      "Tu risa es música.",
+      "Corre como un guepardo.",
+      "La luna, espejo."
+    ],
+    "correctAnswer": 2,
+    "explanation": "“Corre como un guepardo” usa 'como'.",
+    "source": "RAE."
+  },
+  {
+    "id": 25,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "La personificación es una figura que:",
+    "options": [
+      "Exagera.",
+      "Compara con 'como'.",
+      "Atribuye cualidades humanas.",
+      "Repetir sonidos."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Atribuye conductas humanas a seres no humanos.",
+    "source": "RAE."
+  },
+  {
+    "id": 26,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Identifique la personificación.",
+    "options": [
+      "El viento susurra.",
+      "Más listo que un zorro.",
+      "Frío como el hielo.",
+      "Brilla el sol."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Se atribuye susurrar al viento.",
+    "source": "RAE."
+  },
+  {
+    "id": 27,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Identifique qué es una conjunción:",
+    "options": [
+      "Palabra invariable que coordina o subordina.",
+      "Forma verbal.",
+      "Figura retórica.",
+      "Adverbio."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Enlaza oraciones o palabras.",
+    "source": "RAE."
+  },
+  {
+    "id": 28,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "En “María estudiaba, pero Pedro dormía”, ¿qué es “pero”?",
+    "options": [
+      "Adverbio.",
+      "Conjunción adversativa.",
+      "Preposición.",
+      "Pronombre."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Enlaza ideas contrapuestas.",
+    "source": "RAE."
+  },
+  {
+    "id": 29,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Determine contiene una conjunción subordinante:",
+    "options": [
+      "No solo estudia, sino trabaja.",
+      "Correr y saltar.",
+      "Voy al cine aunque esté cansado.",
+      "Cocina bien, pero no hornea."
+    ],
+    "correctAnswer": 2,
+    "explanation": "'Aunque' introduce concesiva subordinada.",
+    "source": "Gramática."
+  },
+  {
+    "id": 30,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Seleccione uso correcto de 'porqué'.",
+    "options": [
+      "No entiendo el porqué de tu enojo.",
+      "¿Porqué no viniste?",
+      "El libro porqué compraste.",
+      "No sé por qué."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Escrita junta y con tilde es sustantivo.",
+    "source": "RAE/Fundéu."
+  },
+  {
+    "id": 31,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Interrogativa 'por qué' correcta.",
+    "options": [
+      "El porqué de esta decisión.",
+      "Porqué me lo prometiste.",
+      "¿Por qué no quieres venir?",
+      "Porqué llegaste tarde."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Separada y con tilde en interrogativas.",
+    "source": "RAE/Fundéu."
+  },
+  {
+    "id": 32,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Conjunción 'porque' correcta.",
+    "options": [
+      "¿Porque no viniste?",
+      "No viniste porque estabas enfermo.",
+      "El porque de tu risa.",
+      "Por que me fui."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Junta y sin tilde es causal.",
+    "source": "RAE/Fundéu."
+  },
+  {
+    "id": 33,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Secuencia 'por que' correcta.",
+    "options": [
+      "Preocupado por que llegue tarde.",
+      "Por que no viniste.",
+      "El porqué.",
+      "¿Por qué?"
+    ],
+    "correctAnswer": 0,
+    "explanation": "Preposición + relativo.",
+    "source": "RAE/Fundéu."
+  },
+  {
+    "id": 34,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Uso de 'a ver' según Fundéu.",
+    "options": [
+      "Verbo haber.",
+      "Invita a observar.",
+      "Sustantivo.",
+      "Sinónimo de haver."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Preposición a + verbo ver.",
+    "source": "Fundéu."
+  },
+  {
+    "id": 35,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Uso correcto de 'haber'.",
+    "options": [
+      "Vamos a ver si llueve.",
+      "Tiene que haber más soluciones.",
+      "A ver cuándo.",
+      "A ver venido."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Indica existencia.",
+    "source": "Fundéu."
+  },
+  {
+    "id": 36,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Expresión 'a ver' bien escrita.",
+    "options": [
+      "Haber si nos encontramos.",
+      "A ver si terminamos.",
+      "Haber aprobado.",
+      "No hay a ver."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Indica expectativa.",
+    "source": "Fundéu."
+  },
+  {
+    "id": 37,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Diferencia entre 'a ver' y 'haber'.",
+    "options": [
+      "Intercambiables.",
+      "A ver invita a observar, haber auxiliar/impersonal.",
+      "Haber es observar.",
+      "A ver lleva tilde."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Diferencias gramaticales claras.",
+    "source": "Fundéu."
+  },
+  {
+    "id": 38,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Auxiliar 'haber' correcto.",
+    "options": [
+      "Debería a ver terminado.",
+      "He haber leído.",
+      "Debe haber muchas personas.",
+      "A ver si han haber."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Impersonal de existencia.",
+    "source": "Fundéu."
+  },
+  {
+    "id": 39,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Error en “Haber visto esa película”?",
+    "options": [
+      "'Haber' por 'A ver'.",
+      "'A ver' por 'Haber'.",
+      "Coma.",
+      "Sin errores."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Corresponde a la expresión idiomática.",
+    "source": "Fundéu."
+  },
+  {
+    "id": 40,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Identifique qué es una homófona:",
+    "options": [
+      "Igual escritura y sonido.",
+      "Igual sonido, distinta escritura/significado.",
+      "Distinto sonido, igual escritura.",
+      "Varios significados."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Suenan igual, significan distinto.",
+    "source": "RAE."
+  },
+  {
+    "id": 41,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Pareja homófona.",
+    "options": [
+      "casa / casa.",
+      "caza / casa.",
+      "gato / perro.",
+      "rayar / rallar."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Suenan igual en dialectos específicos.",
+    "source": "RAE."
+  },
+  {
+    "id": 42,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Homófona correcta: “Ayer me **** en la piscina”.",
+    "options": [
+      "zurré.",
+      "sierve.",
+      "sumerjí.",
+      "sumergí."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Del verbo sumergirse.",
+    "source": "Homófonos."
+  },
+  {
+    "id": 43,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Error en “La sabia árbol”.",
+    "options": [
+      "La savia del árbol.",
+      "La sabia.",
+      "La savía.",
+      "La sabía."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Savia con 'v' es fluido nutricio.",
+    "source": "Homófonos."
+  },
+  {
+    "id": 44,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Error en homófonas.",
+    "options": [
+      "Vallas para jardín.",
+      "Tasa de interés bajó (taza).",
+      "El bote.",
+      "English hat."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tasa (índice) se escribe con 's'.",
+    "source": "Homófonos."
+  },
+  {
+    "id": 45,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Igual escritura y sonido.",
+    "options": [
+      "coser / coser.",
+      "grabar / gravar.",
+      "calló / cayó.",
+      "bello / vello."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Son homógrafos.",
+    "source": "RAE."
+  },
+  {
+    "id": 46,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Parónimo (sonido parecido, significado distinto).",
+    "options": [
+      "Toque de queda.",
+      "El artista grabó un disco (gravar).",
+      "El gato.",
+      "La humedad."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Grabar y gravar son parónimos.",
+    "source": "Homófonos."
+  },
+  {
+    "id": 47,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Explique la razón por la cual 'echó' sin hache:",
+    "options": [
+      "Echar líquidos.",
+      "Homófonos.",
+      "'Echar' no lleva 'h', 'hecho' sí (del verbo hacer).",
+      "Ambas válidas."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Echar es sin 'h'.",
+    "source": "Homófonos."
+  },
+  {
+    "id": 48,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "¿No existe homofonía?",
+    "options": [
+      "baca / vaca.",
+      "barón / varón.",
+      "honda / onda.",
+      "correr / corredor."
+    ],
+    "correctAnswer": 3,
+    "explanation": "No suenan igual.",
+    "source": "RAE."
+  },
+  {
+    "id": 49,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "¿Homógrafa?",
+    "options": [
+      "vino (bebida) / vino (venir).",
+      "bienes / vienes.",
+      "bello / vello.",
+      "echo / hecho."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Se escriben e igual.",
+    "source": "RAE."
+  },
+  {
+    "id": 50,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Complete: “El ____ exitoso” / “Voy a ____ pastel”.",
+    "options": [
+      "boto / votar.",
+      "voto / botar.",
+      "voto / votar.",
+      "voto / voto."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Voto (sufragio) y botar (tirar).",
+    "source": "RAE."
+  },
+  {
+    "id": 51,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Donde usar 'si no' (separado).",
+    "options": [
+      "No té, sino café.",
+      "Canta, sino que baila.",
+      "Salió de prisa, si no regresaba tarde.",
+      "No fácil, sino complejo."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Condicional + negación.",
+    "source": "RAE/Fundéu."
+  },
+  {
+    "id": 52,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Uso correcto de 'sino que'.",
+    "options": [
+      "No lunes, sino que martes.",
+      "No solo estudia, sino que trabaja.",
+      "Sino que no llegaste.",
+      "No dulces, sino que frutas."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Para añadir idea complementaria.",
+    "source": "Normas."
+  },
+  {
+    "id": 53,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "En “Mas no se rindió”, 'mas' es:",
+    "options": [
+      "Adverbio cantidad.",
+      "Adjetivo interrogativo.",
+      "Conjunción adversativa (pero).",
+      "Sustantivo."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Mas sin tilde equivale a pero.",
+    "source": "Tilde diacrítica."
+  },
+  {
+    "id": 54,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Adverbio cantidad 'más' correcto.",
+    "options": [
+      "Mas llovía.",
+      "Más de cien personas.",
+      "Mas a menudo.",
+      "Quiero mas café."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Cantidad lleva tilde.",
+    "source": "Tilde diacrítica."
+  },
+  {
+    "id": 55,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Tilde diacrítica en 'té' correcta.",
+    "options": [
+      "Te de manzanilla.",
+      "Quiero un té con limón.",
+      "Él te dijo.",
+      "Si tomas té."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Distingue infusión de pronombre.",
+    "source": "Tilde diacrítica."
+  },
+  {
+    "id": 56,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "'de' y 'dé' correctos.",
+    "options": [
+      "Dé este regalo.",
+      "Espero que de casa.",
+      "De, presenté.",
+      "Dijo que dé."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Dé (verbo dar) lleva tilde.",
+    "source": "Tilde diacrítica."
+  },
+  {
+    "id": 57,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Función de “él” y “el”.",
+    "options": [
+      "Artículos.",
+      "Él pronombre, el artículo.",
+      "Conjunciones.",
+      "Sin tilde."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Pronombre vs artículo.",
+    "source": "Tilde diacrítica."
+  },
+  {
+    "id": 58,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Uso de 'sé' correcto.",
+    "options": [
+      "Se la canción (sé).",
+      "Sé valiente.",
+      "No sé.",
+      "Se fuerte (sé)."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Imperativo del verbo ser.",
+    "source": "Tilde diacrítica."
+  },
+  {
+    "id": 59,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Concordancia de género y número.",
+    "options": [
+      "Los problema gramaticales.",
+      "La estudiante aplicada resolvió las preguntas difíciles.",
+      "El explicaciones.",
+      "Las libro."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Concordancia perfecta.",
+    "source": "Gramática."
+  },
+  {
+    "id": 60,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Pronombre relativo correcto.",
+    "options": [
+      "La profesora que enseña.",
+      "Libros cual (que).",
+      "Casa quienes (que).",
+      "Familia cual (la cual)."
+    ],
+    "correctAnswer": 0,
+    "explanation": "'Que' es el relativo estándar.",
+    "source": "Gramática."
+  },
+  {
+    "id": 61,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Modo subjuntivo correcto.",
+    "options": [
+      "Ojalá vienes.",
+      "Quiero que vengas.",
+      "Tal vez llueve.",
+      "Si tendría."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Deseo o hipótesis.",
+    "source": "Gramática."
+  },
+  {
+    "id": 62,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Puntuación de enumeración.",
+    "options": [
+      "Sin comas.",
+      "Frutas, verduras, cereales y legumbres.",
+      "Comas extra.",
+      "Sin coma final."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Comas correctas.",
+    "source": "Puntuación."
+  },
+  {
+    "id": 63,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Metáfora.",
+    "options": [
+      "Ojos son dos esmeraldas.",
+      "Ruge como un león.",
+      "Alto como torre.",
+      "Canta rápido."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Identidad sin nexo comparativo.",
+    "source": "Retórica."
+  },
+  {
+    "id": 64,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "“La primavera besaba...”.",
+    "options": [
+      "Metáfora.",
+      "Hipérbole.",
+      "Personificación.",
+      "Sinestesia."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Acción humana a objeto inanimado.",
+    "source": "Retórica."
+  },
+  {
+    "id": 65,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "“El tiempo es oro”.",
+    "options": [
+      "Metáfora.",
+      "Hipérbole.",
+      "Símil.",
+      "Personificación."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Valoración implícita.",
+    "source": "Retórica."
+  },
+  {
+    "id": 66,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "“Estoy muerto de cansancio”.",
+    "options": [
+      "Metáfora.",
+      "Hipérbole.",
+      "Símil.",
+      "Metonimia."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Exageración extrema.",
+    "source": "RAE."
+  },
+  {
+    "id": 67,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "“Tus ojos como el cielo”.",
+    "options": [
+      "Metáfora.",
+      "Símil.",
+      "Hipérbole.",
+      "Sinécdoque."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Usa nexo 'como'.",
+    "source": "RAE."
+  },
+  {
+    "id": 68,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "“Perdón mil veces”.",
+    "options": [
+      "Símil.",
+      "Hipérbole.",
+      "Personificación.",
+      "Ironía."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Exagera cantidad.",
+    "source": "RAE."
+  },
+  {
+    "id": 69,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Ironía.",
+    "options": [
+      "Qué bella noche de tormenta.",
+      "Vista de halcón.",
+      "Lloviendo a cántaros.",
+      "Manos son alas."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Dice lo contrario.",
+    "source": "Retórica."
+  },
+  {
+    "id": 70,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Sinécdoque.",
+    "options": [
+      "Cien almas.",
+      "Ganó el oro.",
+      "Pidió la mano.",
+      "No veo el barco, solo las velas."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Parte por el todo.",
+    "source": "Retórica."
+  },
+  {
+    "id": 71,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Calambur (juego de palabras).",
+    "options": [
+      "Si el rey no muere.",
+      "Entre el clavel y la rosa, su majestad escoja (es coja).",
+      "Me río del río.",
+      "Huye del agua."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Juego de ambigüedad sonora.",
+    "source": "Retórica."
+  },
+  {
+    "id": 72,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Prosopopeya.",
+    "options": [
+      "Aliteración.",
+      "Primavera saluda.",
+      "Metáfora.",
+      "Antítesis."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Atribuye acción humana.",
+    "source": "RAE."
+  },
+  {
+    "id": 73,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Sinestesia (mezcla sentidos).",
+    "options": [
+      "Palabras dulces.",
+      "Metáfora.",
+      "Aliteración.",
+      "Hipérbole."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Mezcla gusto y oído.",
+    "source": "Retórica."
+  },
+  {
+    "id": 74,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "“Nuestras vidas son los ríos...”.",
+    "options": [
+      "Metáfora.",
+      "Símil.",
+      "Hipérbole.",
+      "Eufemismo."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Identidad vida-río.",
+    "source": "RAE."
+  },
+  {
+    "id": 75,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Epíteto (cualidad inherente).",
+    "options": [
+      "Elipsis.",
+      "Canto divino.",
+      "Hipérbole.",
+      "Metonimia."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Adjetivo resaltante.",
+    "source": "Retórica."
+  },
+  {
+    "id": 76,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Pretérito pluscuamperfecto correcto.",
+    "options": [
+      "Había salido.",
+      "Salió.",
+      "Salía.",
+      "Saliera."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Había + participio.",
+    "source": "Gramática."
+  },
+  {
+    "id": 77,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "“Rápidamente”.",
+    "options": [
+      "Adjetivo.",
+      "Adverbio de modo.",
+      "Sustantivo.",
+      "Verbo."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Indica cómo se realiza la acción.",
+    "source": "Gramática."
+  },
+  {
+    "id": 78,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "“Juan y María estudian y trabajan”.",
+    "options": [
+      "Dos copulativas.",
+      "Copulativa y adversativa.",
+      "Subordinante.",
+      "Sin conjunciones."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Uso repetido de 'y'.",
+    "source": "Gramática."
+  },
+  {
+    "id": 79,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "“Sin embargo”.",
+    "options": [
+      "Copulativa.",
+      "Adversativa compuesta.",
+      "Adverbio tiempo.",
+      "Pronombre."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Introduce contraste.",
+    "source": "Gramática."
+  },
+  {
+    "id": 80,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "¿Requiere coma tras subordinada?",
+    "options": [
+      "Si llegas temprano...",
+      "Mientras escuchaba...",
+      "Aunque llovía...",
+      "Todas."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Coma tras subordinada adverbial anterior.",
+    "source": "Puntuación."
+  },
+  {
+    "id": 81,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "“Los estudiantes que se esfuerzan...”.",
+    "options": [
+      "Sustantiva.",
+      "Adverbial.",
+      "Adjetiva especificativa.",
+      "Adjetiva explicativa."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Delimita el sustantivo.",
+    "source": "Gramática."
+  },
+  {
+    "id": 82,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Gerundio inadecuado (posterioridad).",
+    "options": [
+      "Lloviendo...",
+      "Voy caminando.",
+      "Entrando el sol (después de entrar).",
+      "Esperando..."
+    ],
+    "correctAnswer": 2,
+    "explanation": "No debe indicar acción posterior.",
+    "source": "Gramática."
+  },
+  {
+    "id": 83,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Pretérito imperfecto correcto.",
+    "options": [
+      "Comía (contexto puntual).",
+      "Cuando era niño, jugaba.",
+      "Prendía.",
+      "Dormía (puntual)."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Acción habitual pasada.",
+    "source": "Gramática."
+  },
+  {
+    "id": 84,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Diptongo.",
+    "options": [
+      "Poeta (hiato).",
+      "Ciudad (iu).",
+      "País (hiato).",
+      "Río (hiato)."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Dos vocales en una sílaba.",
+    "source": "Acentuación."
+  },
+  {
+    "id": 85,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Hiato.",
+    "options": [
+      "Diario.",
+      "Cielo.",
+      "Tía (í-a).",
+      "Cuadro."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Vocales en sílabas distintas.",
+    "source": "Acentuación."
+  },
+  {
+    "id": 86,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Triptongo.",
+    "options": [
+      "Fiebre.",
+      "Buey (u-e-y).",
+      "Héroe.",
+      "Ahí."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Tres vocales en una sílaba.",
+    "source": "Acentuación."
+  },
+  {
+    "id": 87,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "“Murciélago”.",
+    "options": [
+      "Grave.",
+      "Aguda.",
+      "Esdrújula (cié).",
+      "Sobresdrújula."
+    ],
+    "correctAnswer": 2,
+    "explanation": "mi parser verá cié).",
+    "source": "Acentuación."
+  },
+  {
+    "id": 88,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Esdrújula.",
+    "options": [
+      "Azúcar.",
+      "teléfono (esdrújula).",
+      "corazón.",
+      "dímelo (esdrújula)."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Acento en antepenúltima.",
+    "source": "Acentuación."
+  },
+  {
+    "id": 89,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Acentuación correcta.",
+    "options": [
+      "Enfasis.",
+      "Camion.",
+      "Árbol.",
+      "Colegio."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Grave terminada en 'l'.",
+    "source": "Acentuación."
+  },
+  {
+    "id": 90,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Palíndromo.",
+    "options": [
+      "Radar.",
+      "Baraja.",
+      "Amigo.",
+      "Espejo."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Se lee igual al revés.",
+    "source": "Cultura."
+  },
+  {
+    "id": 91,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "“Contrato” es:",
+    "options": [
+      "Abstracto.",
+      "Común concreto.",
+      "Calificativo.",
+      "Participio."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Documento tangible.",
+    "source": "Gramática."
+  },
+  {
+    "id": 92,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Modo condicional correcto.",
+    "options": [
+      "Si llovería.",
+      "Si llueve, quedaría.",
+      "Si lloviera, quedaría.",
+      "Si llovió."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Estructura hipotética.",
+    "source": "Gramática."
+  },
+  {
+    "id": 93,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Participio irregular.",
+    "options": [
+      "Escribido.",
+      "Roto.",
+      "Comido.",
+      "Caminado."
+    ],
+    "correctAnswer": 1,
+    "explanation": "De romper.",
+    "source": "Gramática."
+  },
+  {
+    "id": 94,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Pretérito perfecto compuesto.",
+    "options": [
+      "Comí.",
+      "He comido.",
+      "Comía.",
+      "Haya comido."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Haber + participio.",
+    "source": "Gramática."
+  },
+  {
+    "id": 95,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "“Cuando termine, entregaré”.",
+    "options": [
+      "Futuro compuesto.",
+      "Futuro indicativo.",
+      "Pluscuamperfecto.",
+      "Imperfecto."
+    ],
+    "correctAnswer": 1,
+    "explanation": "'Entregaré' es futuro simple.",
+    "source": "Gramática."
+  },
+  {
+    "id": 96,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "“Si hubieras estudiado, habrías aprobado”.",
+    "options": [
+      "Pluscuamperfecto ind + condicional.",
+      "Perfecto comp.",
+      "Pluscuamperfecto subjuntivo + condicional compuesto.",
+      "Indicativo."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Condicional irreal.",
+    "source": "Gramática."
+  },
+  {
+    "id": 97,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Perífrasis verbal.",
+    "options": [
+      "Voy a estudiar.",
+      "Estudiaré.",
+      "Estudiaba.",
+      "He estudiado."
+    ],
+    "correctAnswer": 0,
+    "explanation": "Ir + a + infinitivo.",
+    "source": "Gramática."
+  },
+  {
+    "id": 98,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Refrán similar a “La cigarra y la hormiga”.",
+    "options": [
+      "Mal que por bien no venga.",
+      "Quien madruga.",
+      "Prevenir que lamentar.",
+      "Todas."
+    ],
+    "correctAnswer": 3,
+    "explanation": "Aluden a previsión y trabajo.",
+    "source": "Fábulas."
+  },
+  {
+    "id": 99,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Tono en la fábula.",
+    "options": [
+      "Humorístico.",
+      "Trágico.",
+      "Didáctico.",
+      "Romántico."
+    ],
+    "correctAnswer": 2,
+    "explanation": "Transmite moraleja.",
+    "source": "Samaniego."
+  },
+  {
+    "id": 100,
+    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "question": "Habilidades de evaluar argumentos.",
+    "options": [
+      "Datos superficiales.",
+      "Validez, supuestos, implicaciones, retórica.",
+      "Memorizar.",
+      "Matemáticas."
+    ],
+    "correctAnswer": 1,
+    "explanation": "Capacidades críticas del ICFES.",
+    "source": "Guía ICFES."
+  }
+]
