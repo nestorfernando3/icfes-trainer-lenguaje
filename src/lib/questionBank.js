@@ -20,3 +20,10 @@ export const getCategories = () => {
   return categories;
 };
 
+export const getQuestionCounts = () => {
+  const counts = {};
+  questionBank.forEach(q => {
+    counts[q.topic] = (counts[q.topic] || 0) + 1;
+  });
+  return counts;
+};

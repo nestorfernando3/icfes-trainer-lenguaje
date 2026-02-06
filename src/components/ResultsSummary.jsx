@@ -1,15 +1,27 @@
+import { useEffect, useMemo } from 'react'
+import { recordQuizResults } from '../lib/progressStorage'
+
 export default function ResultsSummary({ results, onRetry }) {
-    const { questions, answers } = results
+    const { questions, answers, category, mode } = results
 
     // Calculate score
-    let correctCount = 0
-    questions.forEach(q => {
-        if (answers[q.id] === q.correctAnswer) {
-            correctCount++
+    const { correctCount, score } = useMemo(() => {
+        let correct = 0
+        questions.forEach((q, idx) => {
+            if (answers[idx] === q.correctAnswer) {
+                correct++
+            }
+        })
+        return {
+            correctCount: correct,
+            score: Math.round((correct / questions.length) * 100)
         }
-    })
+    }, [questions, answers])
 
-    const score = Math.round((correctCount / questions.length) * 100)
+    // Record progress on mount
+    useEffect(() => {
+        recordQuizResults(results, category || 'General', mode || 'simulacro')
+    }, [results, category, mode])
 
     let feedbackMsg = ""
     let feedbackEmoji = ""

@@ -1,15 +1,21 @@
 import { useState, useEffect } from 'react'
-import { getQuestions, getCategories } from '../lib/questionBank.js'
+import { getQuestions, getCategories, getQuestionCounts } from '../lib/questionBank.js'
+import ModeSelector from './ModeSelector'
+import CategorySelector from './CategorySelector'
 
 export default function ConfigScreen({ onStart }) {
     const [loading, setLoading] = useState(true)
     const [categories, setCategories] = useState([])
+    const [questionCounts, setQuestionCounts] = useState({})
     const [selectedCategory, setSelectedCategory] = useState('all')
     const [limit, setLimit] = useState(20)
+    const [mode, setMode] = useState('simulacro')
 
     useEffect(() => {
         const cats = getCategories()
+        const counts = getQuestionCounts()
         setCategories(cats)
+        setQuestionCounts(counts)
         setLoading(false)
     }, [])
 
@@ -28,7 +34,8 @@ export default function ConfigScreen({ onStart }) {
         onStart({
             questions: finalQuestions,
             timelimit: 0,
-            category: selectedCategory === 'all' ? 'Simulacro Completo' : selectedCategory
+            category: selectedCategory === 'all' ? 'Simulacro Completo' : selectedCategory,
+            mode: mode
         })
     }
 
@@ -42,24 +49,30 @@ export default function ConfigScreen({ onStart }) {
     return (
         <div className="card fade-in">
             <h2>Configura tu Entrenamiento</h2>
-            <p>Selecciona el área de estudio y la cantidad de preguntas para comenzar.</p>
+            <p>Selecciona el modo, área de estudio y la cantidad de preguntas para comenzar.</p>
 
+            {/* Mode Selector */}
             <div style={{ marginBottom: '1.5rem' }}>
-                <label style={{ display: 'block', marginBottom: '0.5rem', fontWeight: '600', color: 'var(--text-secondary)' }}>
-                    Área de Estudio
+                <label style={{ display: 'block', marginBottom: '0.75rem', fontWeight: '600', color: 'var(--text-secondary)' }}>
+                    Modo de Práctica
                 </label>
-                <select
-                    className="select-input"
-                    value={selectedCategory}
-                    onChange={(e) => setSelectedCategory(e.target.value)}
-                >
-                    <option value="all">📚 Todas las áreas (Simulacro Completo)</option>
-                    {categories.map(cat => (
-                        <option key={cat} value={cat}>📖 {cat}</option>
-                    ))}
-                </select>
+                <ModeSelector selectedMode={mode} onSelect={setMode} />
             </div>
 
+            {/* Category Selector - Now with cards! */}
+            <div style={{ marginBottom: '1.5rem' }}>
+                <label style={{ display: 'block', marginBottom: '0.75rem', fontWeight: '600', color: 'var(--text-secondary)' }}>
+                    Área de Estudio
+                </label>
+                <CategorySelector
+                    categories={categories}
+                    questionCounts={questionCounts}
+                    selected={selectedCategory}
+                    onSelect={setSelectedCategory}
+                />
+            </div>
+
+            {/* Quantity Selector */}
             <div style={{ marginBottom: '2rem' }}>
                 <label style={{ display: 'block', marginBottom: '0.75rem', fontWeight: '600', color: 'var(--text-secondary)' }}>
                     Cantidad de preguntas
@@ -84,3 +97,4 @@ export default function ConfigScreen({ onStart }) {
         </div>
     )
 }
+

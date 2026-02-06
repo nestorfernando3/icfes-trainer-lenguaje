@@ -1,15 +1,28 @@
-import { useState } from 'react'
+import { useState, useEffect } from 'react'
 
-export default function QuestionCard({ question, onAnswer, showFeedback }) {
-    const [selected, setSelected] = useState(null)
+export default function QuestionCard({
+    question,
+    onAnswer,
+    showFeedback,
+    mode = 'simulacro',
+    previousAnswer,
+    onContinue,
+    isLastQuestion
+}) {
+    const [selected, setSelected] = useState(previousAnswer ?? null)
+
+    // Reset selected when question changes
+    useEffect(() => {
+        setSelected(previousAnswer ?? null)
+    }, [question.id, previousAnswer])
 
     const handleSelect = (index) => {
-        if (showFeedback) return
+        if (showFeedback || previousAnswer !== undefined) return
         setSelected(index)
     }
 
     const handleSubmit = () => {
-        if (selected !== null) {
+        if (selected !== null && previousAnswer === undefined) {
             onAnswer(selected)
         }
     }
@@ -19,7 +32,7 @@ export default function QuestionCard({ question, onAnswer, showFeedback }) {
 
         if (selected === idx) className += ' selected'
 
-        if (showFeedback) {
+        if (showFeedback || (previousAnswer !== undefined && mode === 'simulacro')) {
             if (idx === question.correctAnswer) {
                 className += ' correct'
             } else if (selected === idx && idx !== question.correctAnswer) {
@@ -31,6 +44,9 @@ export default function QuestionCard({ question, onAnswer, showFeedback }) {
     }
 
     const letters = ['A', 'B', 'C', 'D']
+    const isCorrect = selected === question.correctAnswer
+    const hasAnswered = previousAnswer !== undefined
+    const showPassage = mode !== 'rapido' || question.text.length < 300
 
     return (
         <div className="card fade-in">
@@ -40,9 +56,11 @@ export default function QuestionCard({ question, onAnswer, showFeedback }) {
             </div>
 
             {/* Text Passage */}
-            <div className="text-passage">
-                {question.text}
-            </div>
+            {showPassage && (
+                <div className="text-passage">
+                    {question.text}
+                </div>
+            )}
 
             {/* Question */}
             {question.question && (
@@ -56,7 +74,7 @@ export default function QuestionCard({ question, onAnswer, showFeedback }) {
                         key={idx}
                         className={getOptionClass(idx)}
                         onClick={() => handleSelect(idx)}
-                        disabled={showFeedback}
+                        disabled={showFeedback || hasAnswered}
                         data-letter={letters[idx]}
                     >
                         {opt}
@@ -64,8 +82,8 @@ export default function QuestionCard({ question, onAnswer, showFeedback }) {
                 ))}
             </div>
 
-            {/* Submit Button */}
-            {!showFeedback && (
+            {/* Submit Button - Only show if not answered yet */}
+            {!showFeedback && !hasAnswered && (
                 <div style={{ marginTop: '2rem', display: 'flex', justifyContent: 'flex-end' }}>
                     <button
                         className="btn-primary"
@@ -77,15 +95,37 @@ export default function QuestionCard({ question, onAnswer, showFeedback }) {
                 </div>
             )}
 
-            {/* Feedback */}
+            {/* Already Answered Indicator (simulacro mode) */}
+            {hasAnswered && mode === 'simulacro' && !showFeedback && (
+                <div style={{
+                    marginTop: '1.5rem',
+                    padding: '1rem',
+                    background: 'rgba(255,255,255,0.05)',
+                    borderRadius: 'var(--radius-md)',
+                    textAlign: 'center',
+                    color: 'var(--text-muted)'
+                }}>
+                    ✓ Ya respondiste esta pregunta
+                </div>
+            )}
+
+            {/* Feedback (Learning Mode) */}
             {showFeedback && (
-                <div className={`feedback-section ${selected === question.correctAnswer ? 'feedback-correct' : 'feedback-incorrect'}`}>
+                <div className={`feedback-section ${isCorrect ? 'feedback-correct' : 'feedback-incorrect'}`}>
                     <div className="feedback-title">
-                        {selected === question.correctAnswer ? '✓ ¡Correcto!' : '✗ Incorrecto'}
+                        {isCorrect ? '✓ ¡Correcto!' : '✗ Incorrecto'}
                     </div>
                     <p className="feedback-explanation">{question.explanation}</p>
+
+                    <button
+                        className="btn-primary feedback-continue-btn"
+                        onClick={onContinue}
+                    >
+                        {isLastQuestion ? '🏁 Ver Resultados' : '➡️ Siguiente Pregunta'}
+                    </button>
                 </div>
             )}
         </div>
     )
 }
+
