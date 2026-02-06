@@ -2,13 +2,12 @@ import { useState, useMemo } from 'react'
 
 // Category icons and colors mapping
 const categoryMeta = {
-    'Comprensión Lectora': { icon: '📖', color: '#667eea' },
-    'Análisis Textual': { icon: '🔍', color: '#764ba2' },
-    'Pensamiento Crítico': { icon: '🧠', color: '#10b981' },
-    'Inferencia': { icon: '💡', color: '#f59e0b' },
-    'Vocabulario': { icon: '📚', color: '#ef4444' },
-    'Argumentación': { icon: '⚖️', color: '#06b6d4' },
-    'default': { icon: '📝', color: '#8b5cf6' }
+    'Comprensión Literal': { icon: '📖', color: '#667eea' },
+    'Inferencia y Deducción': { icon: '💡', color: '#f59e0b' },
+    'Evaluación Crítica': { icon: '🧠', color: '#10b981' },
+    'Figuras Retóricas': { icon: '✨', color: '#ec4899' },
+    'Gramática y Ortografía': { icon: '📝', color: '#8b5cf6' },
+    'default': { icon: '📚', color: '#06b6d4' }
 }
 
 export default function CategorySelector({ categories, questionCounts, selected, onSelect }) {

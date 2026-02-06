@@ -1,7 +1,7 @@
 [
   {
     "id": 1,
-    "topic": "1 Lectura crítica: textos expositivos sobre medio ambiente y sociedad",
+    "topic": "Comprensión Literal",
     "text": "Texto 1. Lee el siguiente fragmento de un artículo de El Espectador sobre la ampliación de la Reserva Van der Hammen y responde las preguntas 1–5.",
     "question": "Identifique qué propone la administración para ampliar la reserva:",
     "options": [
@@ -16,7 +16,7 @@
   },
   {
     "id": 2,
-    "topic": "1 Lectura crítica: textos expositivos sobre medio ambiente y sociedad",
+    "topic": "Comprensión Literal",
     "text": "Texto 1. Lee el siguiente fragmento de un artículo de El Espectador sobre la ampliación de la Reserva Van der Hammen y responde las preguntas 1–5.",
     "question": "Identifique qué cifras se dan sobre el proyecto de restauración en los Cerros Orientales:",
     "options": [
@@ -31,7 +31,7 @@
   },
   {
     "id": 3,
-    "topic": "1 Lectura crítica: textos expositivos sobre medio ambiente y sociedad",
+    "topic": "Inferencia y Deducción",
     "text": "Texto 1. Lee el siguiente fragmento de un artículo de El Espectador sobre la ampliación de la Reserva Van der Hammen y responde las preguntas 1–5.",
     "question": "De acuerdo con el fragmento, ¿qué implica la afirmación “el objetivo prioritario es cuidar el agua y la biodiversidad”?",
     "options": [
@@ -46,7 +46,7 @@
   },
   {
     "id": 4,
-    "topic": "1 Lectura crítica: textos expositivos sobre medio ambiente y sociedad",
+    "topic": "Comprensión Literal",
     "text": "Texto 1. Lee el siguiente fragmento de un artículo de El Espectador sobre la ampliación de la Reserva Van der Hammen y responde las preguntas 1–5.",
     "question": "¿Cuántas hectáreas están contempladas en el proyecto de adaptación ambiental y cuánto dinero se planea invertir, según el texto?",
     "options": [
@@ -61,7 +61,7 @@
   },
   {
     "id": 5,
-    "topic": "1 Lectura crítica: textos expositivos sobre medio ambiente y sociedad",
+    "topic": "Inferencia y Deducción",
     "text": "Texto 1. Lee el siguiente fragmento de un artículo de El Espectador sobre la ampliación de la Reserva Van der Hammen y responde las preguntas 1–5.",
     "question": "El fragmento menciona que se restaurarán 897,61 hectáreas y que la meta es llegar a 1 300 hectáreas. ¿Qué representa esta meta?",
     "options": [
@@ -76,7 +76,7 @@
   },
   {
     "id": 6,
-    "topic": "1 Lectura crítica: textos expositivos sobre medio ambiente y sociedad",
+    "topic": "Comprensión Literal",
     "text": "Texto 2. Lee el siguiente fragmento de un artículo de opinión sobre la crisis hídrica y la resolución del Ministerio de Ambiente y responde las preguntas 6–8.",
     "question": "Explique la razón por la cual se implementó el racionamiento de agua, según el artículo:",
     "options": [
@@ -91,7 +91,7 @@
   },
   {
     "id": 7,
-    "topic": "1 Lectura crítica: textos expositivos sobre medio ambiente y sociedad",
+    "topic": "Inferencia y Deducción",
     "text": "Texto 2. Lee el siguiente fragmento de un artículo de opinión sobre la crisis hídrica y la resolución del Ministerio de Ambiente y responde las preguntas 6–8.",
     "question": "De acuerdo con el fragmento, ¿qué crítica se hace a la resolución del Ministerio de Ambiente?",
     "options": [
@@ -106,7 +106,7 @@
   },
   {
     "id": 8,
-    "topic": "1 Lectura crítica: textos expositivos sobre medio ambiente y sociedad",
+    "topic": "Inferencia y Deducción",
     "text": "Texto 2. Lee el siguiente fragmento de un artículo de opinión sobre la crisis hídrica y la resolución del Ministerio de Ambiente y responde las preguntas 6–8.",
     "question": "El artículo afirma que la resolución podría afectar hasta 206 000 viviendas. ¿Qué implicación tiene esto en el debate público?",
     "options": [
@@ -121,7 +121,7 @@
   },
   {
     "id": 9,
-    "topic": "2 Lectura crítica: encuesta sobre conciencia ambiental",
+    "topic": "Comprensión Literal",
     "text": "Texto 3. Lee el siguiente fragmento del informe sobre la encuesta de conciencia ambiental realizada por Valora Analitik y responde las preguntas 9–15.",
     "question": "Según el estudio, ¿qué porcentaje de colombianos está interesado en temas ambientales?",
     "options": [
@@ -136,7 +136,7 @@
   },
   {
     "id": 10,
-    "topic": "2 Lectura crítica: encuesta sobre conciencia ambiental",
+    "topic": "Comprensión Literal",
     "text": "Texto 3. Lee el siguiente fragmento del informe sobre la encuesta de conciencia ambiental realizada por Valora Analitik y responde las preguntas 9–15.",
     "question": "Determine de las siguientes problemáticas ambientales aparece como la más preocupante para los encuestados, según el informe:",
     "options": [
@@ -151,7 +151,7 @@
   },
   {
     "id": 11,
-    "topic": "2 Lectura crítica: encuesta sobre conciencia ambiental",
+    "topic": "Comprensión Literal",
     "text": "Texto 3. Lee el siguiente fragmento del informe sobre la encuesta de conciencia ambiental realizada por Valora Analitik y responde las preguntas 9–15.",
     "question": "Identifique qué porcentaje de encuestados cree que los ciudadanos son responsables de la crisis ambiental y de su solución:",
     "options": [
@@ -166,7 +166,7 @@
   },
   {
     "id": 12,
-    "topic": "2 Lectura crítica: encuesta sobre conciencia ambiental",
+    "topic": "Comprensión Literal",
     "text": "Texto 3. Lee el siguiente fragmento del informe sobre la encuesta de conciencia ambiental realizada por Valora Analitik y responde las preguntas 9–15.",
     "question": "Según el texto, ¿cuál es la postura mayoritaria frente a la solución de la crisis ambiental?",
     "options": [
@@ -181,7 +181,7 @@
   },
   {
     "id": 13,
-    "topic": "2 Lectura crítica: encuesta sobre conciencia ambiental",
+    "topic": "Inferencia y Deducción",
     "text": "Texto 3. Lee el siguiente fragmento del informe sobre la encuesta de conciencia ambiental realizada por Valora Analitik y responde las preguntas 9–15.",
     "question": "Identifique qué diferencia se observa entre los jóvenes (16–28 años) y los adultos (29–43 años) en relación con las organizaciones ambientales:",
     "options": [
@@ -196,7 +196,7 @@
   },
   {
     "id": 14,
-    "topic": "2 Lectura crítica: encuesta sobre conciencia ambiental",
+    "topic": "Comprensión Literal",
     "text": "Texto 3. Lee el siguiente fragmento del informe sobre la encuesta de conciencia ambiental realizada por Valora Analitik y responde las preguntas 9–15.",
     "question": "Identifique qué porcentaje de personas cree que aún hay tiempo para evitar un colapso climático si se cambia la actitud:",
     "options": [
@@ -211,7 +211,7 @@
   },
   {
     "id": 15,
-    "topic": "2 Lectura crítica: encuesta sobre conciencia ambiental",
+    "topic": "Inferencia y Deducción",
     "text": "Texto 3. Lee el siguiente fragmento del informe sobre la encuesta de conciencia ambiental realizada por Valora Analitik y responde las preguntas 9–15.",
     "question": "De acuerdo con la encuesta, ¿por qué es importante brindar información clara y permitir la participación ciudadana?",
     "options": [
@@ -226,7 +226,7 @@
   },
   {
     "id": 16,
-    "topic": "3 Lectura crítica: comprensión de especificaciones del ICFES",
+    "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Determine es la diferencia entre los textos continuos e informativos y los discontinuos, según la guía del ICFES:",
     "options": [
@@ -241,7 +241,7 @@
   },
   {
     "id": 17,
-    "topic": "3 Lectura crítica: comprensión de especificaciones del ICFES",
+    "topic": "Comprensión Literal",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Identifique qué porcentaje de preguntas se dedica a textos continuos informativos no filosóficos:",
     "options": [
@@ -256,7 +256,7 @@
   },
   {
     "id": 18,
-    "topic": "3 Lectura crítica: comprensión de especificaciones del ICFES",
+    "topic": "Inferencia y Deducción",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "La guía indica que el nivel de desempeño relacionado con identificar información local y articular elementos corresponde a:",
     "options": [
@@ -271,7 +271,7 @@
   },
   {
     "id": 19,
-    "topic": "3 Lectura crítica: comprensión de especificaciones del ICFES",
+    "topic": "Inferencia y Deducción",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Determine es la categoría de textos continuos que recibe el mayor porcentaje de preguntas:",
     "options": [
@@ -286,7 +286,7 @@
   },
   {
     "id": 20,
-    "topic": "3 Lectura crítica: comprensión de especificaciones del ICFES",
+    "topic": "Inferencia y Deducción",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Determine de las siguientes afirmaciones es verdadera acerca de los textos literarios:",
     "options": [
@@ -301,7 +301,7 @@
   },
   {
     "id": 21,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Comprensión Literal",
     "text": "A continuación se presentan preguntas para evaluar conocimientos sobre figuras retóricas del español.\n\n**Hipérbole**: Figura retórica que consiste en exagerar de manera intencional para enfatizar una idea. Ejemplo: «Te lo he dicho un millón de veces».",
     "question": "Según el Diccionario de la rAE, ¿qué es la hipérbole?",
     "options": [
@@ -316,7 +316,7 @@
   },
   {
     "id": 22,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Figuras Retóricas",
     "text": "A continuación se presentan preguntas para evaluar conocimientos sobre figuras retóricas del español.\n\n**Hipérbole**: Figura retórica que consiste en exagerar de manera intencional para enfatizar una idea. Ejemplo: «Te lo he dicho un millón de veces».",
     "question": "Una hipérbole es una figura literaria que exagera. ¿Qué frase contiene una hipérbole?",
     "options": [
@@ -331,7 +331,7 @@
   },
   {
     "id": 23,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Figuras Retóricas",
     "text": "A continuación se presentan preguntas para evaluar conocimientos sobre figuras retóricas del español.\n\n**Símil (o comparación)**: Figura retórica que establece una relación de semejanza entre dos elementos usando partículas comparativas como «como», «cual», «tal como» o «parece». Ejemplo: «Sus ojos brillan como estrellas».",
     "question": "La figura retórica símil se caracteriza por:",
     "options": [
@@ -346,7 +346,7 @@
   },
   {
     "id": 24,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Figuras Retóricas",
     "text": "A continuación se presentan preguntas para evaluar conocimientos sobre figuras retóricas del español.\n\n**Símil (o comparación)**: Figura retórica que establece una relación de semejanza entre dos elementos usando partículas comparativas como «como», «cual», «tal como» o «parece». Ejemplo: «Sus ojos brillan como estrellas».",
     "question": "Identifique qué frase contiene un símil:",
     "options": [
@@ -361,7 +361,7 @@
   },
   {
     "id": 25,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Figuras Retóricas",
     "text": "A continuación se presentan preguntas para evaluar conocimientos sobre figuras retóricas del español.\n\n**Personificación (o prosopopeya)**: Figura retórica que atribuye cualidades o acciones humanas a seres inanimados, animales o conceptos abstractos. Ejemplo: «El viento susurra secretos».",
     "question": "La personificación es una figura que:",
     "options": [
@@ -376,7 +376,7 @@
   },
   {
     "id": 26,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Figuras Retóricas",
     "text": "A continuación se presentan preguntas para evaluar conocimientos sobre figuras retóricas del español.\n\n**Personificación (o prosopopeya)**: Figura retórica que atribuye cualidades o acciones humanas a seres inanimados, animales o conceptos abstractos. Ejemplo: «El viento susurra secretos».",
     "question": "Identifique la personificación.",
     "options": [
@@ -391,7 +391,7 @@
   },
   {
     "id": 27,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Comprensión Literal",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Identifique qué es una conjunción:",
     "options": [
@@ -406,7 +406,7 @@
   },
   {
     "id": 28,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Comprensión Literal",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "En “María estudiaba, pero Pedro dormía”, ¿qué es “pero”?",
     "options": [
@@ -421,7 +421,7 @@
   },
   {
     "id": 29,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Comprensión Literal",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Determine contiene una conjunción subordinante:",
     "options": [
@@ -436,7 +436,7 @@
   },
   {
     "id": 30,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Seleccione uso correcto de 'porqué'.",
     "options": [
@@ -451,7 +451,7 @@
   },
   {
     "id": 31,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Interrogativa 'por qué' correcta.",
     "options": [
@@ -466,7 +466,7 @@
   },
   {
     "id": 32,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Conjunción 'porque' correcta.",
     "options": [
@@ -481,7 +481,7 @@
   },
   {
     "id": 33,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Secuencia 'por que' correcta.",
     "options": [
@@ -496,7 +496,7 @@
   },
   {
     "id": 34,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Comprensión Literal",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Uso de 'a ver' según Fundéu.",
     "options": [
@@ -511,7 +511,7 @@
   },
   {
     "id": 35,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Comprensión Literal",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Uso correcto de 'haber'.",
     "options": [
@@ -526,7 +526,7 @@
   },
   {
     "id": 36,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Expresión 'a ver' bien escrita.",
     "options": [
@@ -541,7 +541,7 @@
   },
   {
     "id": 37,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Comprensión Literal",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Diferencia entre 'a ver' y 'haber'.",
     "options": [
@@ -556,7 +556,7 @@
   },
   {
     "id": 38,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Auxiliar 'haber' correcto.",
     "options": [
@@ -571,7 +571,7 @@
   },
   {
     "id": 39,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Error en “Haber visto esa película”?",
     "options": [
@@ -586,7 +586,7 @@
   },
   {
     "id": 40,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Comprensión Literal",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Identifique qué es una homófona:",
     "options": [
@@ -601,7 +601,7 @@
   },
   {
     "id": 41,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Comprensión Literal",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Pareja homófona.",
     "options": [
@@ -616,7 +616,7 @@
   },
   {
     "id": 42,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Homófona correcta: “Ayer me **** en la piscina”.",
     "options": [
@@ -631,7 +631,7 @@
   },
   {
     "id": 43,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Error en “La sabia árbol”.",
     "options": [
@@ -646,7 +646,7 @@
   },
   {
     "id": 44,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Error en homófonas.",
     "options": [
@@ -661,7 +661,7 @@
   },
   {
     "id": 45,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Igual escritura y sonido.",
     "options": [
@@ -676,7 +676,7 @@
   },
   {
     "id": 46,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Parónimo (sonido parecido, significado distinto).",
     "options": [
@@ -691,7 +691,7 @@
   },
   {
     "id": 47,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Explique la razón por la cual 'echó' sin hache:",
     "options": [
@@ -706,7 +706,7 @@
   },
   {
     "id": 48,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "¿No existe homofonía?",
     "options": [
@@ -721,7 +721,7 @@
   },
   {
     "id": 49,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "¿Homógrafa?",
     "options": [
@@ -736,7 +736,7 @@
   },
   {
     "id": 50,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Complete: “El ____ exitoso” / “Voy a ____ pastel”.",
     "options": [
@@ -751,7 +751,7 @@
   },
   {
     "id": 51,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Donde usar 'si no' (separado).",
     "options": [
@@ -766,7 +766,7 @@
   },
   {
     "id": 52,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Uso correcto de 'sino que'.",
     "options": [
@@ -781,7 +781,7 @@
   },
   {
     "id": 53,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "En “Mas no se rindió”, 'mas' es:",
     "options": [
@@ -796,7 +796,7 @@
   },
   {
     "id": 54,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Adverbio cantidad 'más' correcto.",
     "options": [
@@ -811,7 +811,7 @@
   },
   {
     "id": 55,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Tilde diacrítica en 'té' correcta.",
     "options": [
@@ -826,7 +826,7 @@
   },
   {
     "id": 56,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "'de' y 'dé' correctos.",
     "options": [
@@ -841,7 +841,7 @@
   },
   {
     "id": 57,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Función de “él” y “el”.",
     "options": [
@@ -856,7 +856,7 @@
   },
   {
     "id": 58,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Uso de 'sé' correcto.",
     "options": [
@@ -871,7 +871,7 @@
   },
   {
     "id": 59,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Concordancia de género y número.",
     "options": [
@@ -886,7 +886,7 @@
   },
   {
     "id": 60,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Pronombre relativo correcto.",
     "options": [
@@ -901,7 +901,7 @@
   },
   {
     "id": 61,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Modo subjuntivo correcto.",
     "options": [
@@ -916,7 +916,7 @@
   },
   {
     "id": 62,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Puntuación de enumeración.",
     "options": [
@@ -931,9 +931,9 @@
   },
   {
     "id": 63,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Inferencia y Deducción",
     "text": "A continuación se presentan preguntas para evaluar conocimientos sobre figuras retóricas del español.\n\n**Metáfora**: Figura retórica que identifica un término real con otro imaginario, estableciendo una relación de semejanza sin usar partículas comparativas. Ejemplo: «Tus ojos son dos luceros» (no dice «como»).",
-    "question": "Metáfora.",
+    "question": "Teniendo en cuenta que la **Metáfora** es la identificación de un término real con otro imaginario sin usar nexos comparativos, identifique cuál de las siguientes frases es un ejemplo de esta figura:",
     "options": [
       "Ojos son dos esmeraldas.",
       "Ruge como un león.",
@@ -946,9 +946,9 @@
   },
   {
     "id": 64,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Inferencia y Deducción",
     "text": "A continuación se presentan preguntas para evaluar conocimientos sobre figuras retóricas del español.\n\n**Personificación (o prosopopeya)**: Figura retórica que atribuye cualidades o acciones humanas a seres inanimados, animales o conceptos abstractos. Ejemplo: «El viento susurra secretos».",
-    "question": "“La primavera besaba...”.",
+    "question": "La frase “La primavera besaba...”. es un ejemplo de una figura retórica que consiste en la atribución de rasgos, acciones o sentimientos humanos a seres inanimados o animales. Identifique de qué figura se trata:",
     "options": [
       "Metáfora.",
       "Hipérbole.",
@@ -961,9 +961,9 @@
   },
   {
     "id": 65,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Inferencia y Deducción",
     "text": "A continuación se presentan preguntas para evaluar conocimientos sobre figuras retóricas del español.\n\n**Metáfora**: Figura retórica que identifica un término real con otro imaginario, estableciendo una relación de semejanza sin usar partículas comparativas. Ejemplo: «Tus ojos son dos luceros» (no dice «como»).",
-    "question": "“El tiempo es oro”.",
+    "question": "La frase “El tiempo es oro”. es un ejemplo de una figura retórica que consiste en la identificación de un término real con otro imaginario sin usar nexos comparativos (como 'como'). Identifique de qué figura se trata:",
     "options": [
       "Metáfora.",
       "Hipérbole.",
@@ -976,9 +976,9 @@
   },
   {
     "id": 66,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Inferencia y Deducción",
     "text": "A continuación se presentan preguntas para evaluar conocimientos sobre figuras retóricas del español.\n\n**Hipérbole**: Figura retórica que consiste en exagerar de manera intencional para enfatizar una idea. Ejemplo: «Te lo he dicho un millón de veces».",
-    "question": "“Estoy muerto de cansancio”.",
+    "question": "La frase “Estoy muerto de cansancio”. es un ejemplo de una figura retórica que consiste en la exageración intencional de la realidad para enfatizar una idea o sentimiento. Identifique de qué figura se trata:",
     "options": [
       "Metáfora.",
       "Hipérbole.",
@@ -991,9 +991,9 @@
   },
   {
     "id": 67,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Inferencia y Deducción",
     "text": "A continuación se presentan preguntas para evaluar conocimientos sobre figuras retóricas del español.\n\n**Símil (o comparación)**: Figura retórica que establece una relación de semejanza entre dos elementos usando partículas comparativas como «como», «cual», «tal como» o «parece». Ejemplo: «Sus ojos brillan como estrellas».",
-    "question": "“Tus ojos como el cielo”.",
+    "question": "La frase “Tus ojos como el cielo”. es un ejemplo de una figura retórica que consiste en la comparación directa de dos términos usando nexos (como, cual, parece). Identifique de qué figura se trata:",
     "options": [
       "Metáfora.",
       "Símil.",
@@ -1006,9 +1006,9 @@
   },
   {
     "id": 68,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Inferencia y Deducción",
     "text": "A continuación se presentan preguntas para evaluar conocimientos sobre figuras retóricas del español.\n\n**Hipérbole**: Figura retórica que consiste en exagerar de manera intencional para enfatizar una idea. Ejemplo: «Te lo he dicho un millón de veces».",
-    "question": "“Perdón mil veces”.",
+    "question": "La frase “Perdón mil veces”. es un ejemplo de una figura retórica que consiste en la exageración intencional de la realidad para enfatizar una idea o sentimiento. Identifique de qué figura se trata:",
     "options": [
       "Símil.",
       "Hipérbole.",
@@ -1021,9 +1021,9 @@
   },
   {
     "id": 69,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Inferencia y Deducción",
     "text": "A continuación se presentan preguntas para evaluar conocimientos sobre figuras retóricas del español.\n\n**Ironía**: Figura retórica que expresa lo contrario de lo que se quiere decir, generalmente con intención burlesca o crítica. Ejemplo: «¡Qué buen día!» (cuando llueve a cántaros).",
-    "question": "Ironía.",
+    "question": "Teniendo en cuenta que la **Ironía** es la expresión verbal de lo contrario de lo que realmente se piensa o sucede, identifique cuál de las siguientes frases es un ejemplo de esta figura:",
     "options": [
       "Qué bella noche de tormenta.",
       "Vista de halcón.",
@@ -1036,9 +1036,9 @@
   },
   {
     "id": 70,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Inferencia y Deducción",
     "text": "A continuación se presentan preguntas para evaluar conocimientos sobre figuras retóricas del español.\n\n**Sinécdoque**: Figura retórica que designa una cosa con el nombre de otra, tomando la parte por el todo o viceversa. Ejemplo: «Hay cien almas en la sala» (almas = personas).",
-    "question": "Sinécdoque.",
+    "question": "Teniendo en cuenta que la **Sinécdoque** es la sustitución del nombre de un objeto por la parte por el todo (o viceversa), identifique cuál de las siguientes frases es un ejemplo de esta figura:",
     "options": [
       "Cien almas.",
       "Ganó el oro.",
@@ -1051,9 +1051,9 @@
   },
   {
     "id": 71,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Inferencia y Deducción",
     "text": "A continuación se presentan preguntas para evaluar conocimientos sobre figuras retóricas del español.\n\n**Calambur**: Figura retórica que consiste en reagrupar las sílabas de una o más palabras de otro modo para producir un sentido diferente. Ejemplo: «Si el Rey no muere, el reino muere» / «Si el reino muere, el Rey no muere».",
-    "question": "Calambur (juego de palabras).",
+    "question": "Teniendo en cuenta que la **Calambur** consiste en la juego de palabras que reagrupa sílabas para cambiar el sentido, identifique un ejemplo válido:",
     "options": [
       "Si el rey no muere.",
       "Entre el clavel y la rosa, su majestad escoja (es coja).",
@@ -1066,9 +1066,9 @@
   },
   {
     "id": 72,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Inferencia y Deducción",
     "text": "A continuación se presentan preguntas para evaluar conocimientos sobre figuras retóricas del español.\n\n**Prosopopeya**: Figura retórica que atribuye cualidades o acciones humanas a seres inanimados, animales o conceptos abstractos. Sinónimo de personificación.",
-    "question": "Prosopopeya.",
+    "question": "Teniendo en cuenta que la **Prosopopeya** es la atribución de cualidades o acciones humanas a objetos inanimados o animales (sinónimo de personificación), identifique cuál de las siguientes frases es un ejemplo de esta figura:",
     "options": [
       "Aliteración.",
       "Primavera saluda.",
@@ -1081,9 +1081,9 @@
   },
   {
     "id": 73,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Inferencia y Deducción",
     "text": "A continuación se presentan preguntas para evaluar conocimientos sobre figuras retóricas del español.\n\n**Sinestesia**: Figura retórica que mezcla sensaciones de diferentes sentidos (vista, oído, tacto, gusto, olfato). Ejemplo: «Palabras dulces» (mezcla gusto y oído).",
-    "question": "Sinestesia (mezcla sentidos).",
+    "question": "Teniendo en cuenta que la **Sinestesia** consiste en la mezcla de sensaciones provenientes de diferentes sentidos (ej. 'sonido dulce'), identifique un ejemplo válido:",
     "options": [
       "Palabras dulces.",
       "Metáfora.",
@@ -1096,9 +1096,9 @@
   },
   {
     "id": 74,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Inferencia y Deducción",
     "text": "A continuación se presentan preguntas para evaluar conocimientos sobre figuras retóricas del español.\n\n**Metáfora**: Figura retórica que identifica un término real con otro imaginario, estableciendo una relación de semejanza sin usar partículas comparativas. Ejemplo: «Tus ojos son dos luceros» (no dice «como»).",
-    "question": "“Nuestras vidas son los ríos...”.",
+    "question": "La frase “Nuestras vidas son los ríos...”. es un ejemplo de una figura retórica que consiste en la identificación de un término real con otro imaginario sin usar nexos comparativos (como 'como'). Identifique de qué figura se trata:",
     "options": [
       "Metáfora.",
       "Símil.",
@@ -1111,9 +1111,9 @@
   },
   {
     "id": 75,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Inferencia y Deducción",
     "text": "A continuación se presentan preguntas para evaluar conocimientos sobre figuras retóricas del español.\n\n**Epíteto**: Adjetivo que resalta una cualidad inherente del sustantivo, aunque no sea necesario para comprenderlo. Ejemplo: «la blanca nieve», «el frío invierno».",
-    "question": "Epíteto (cualidad inherente).",
+    "question": "Teniendo en cuenta que el **Epíteto** consiste en la adjetivo que resalta una cualidad intrínseca o inherente del sustantivo (ej. 'blanca nieve'), identifique un ejemplo válido entre las opciones:",
     "options": [
       "Elipsis.",
       "Canto divino.",
@@ -1126,7 +1126,7 @@
   },
   {
     "id": 76,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Pretérito pluscuamperfecto correcto.",
     "options": [
@@ -1141,7 +1141,7 @@
   },
   {
     "id": 77,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "“Rápidamente”.",
     "options": [
@@ -1156,7 +1156,7 @@
   },
   {
     "id": 78,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "“Juan y María estudian y trabajan”.",
     "options": [
@@ -1171,7 +1171,7 @@
   },
   {
     "id": 79,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "“Sin embargo”.",
     "options": [
@@ -1186,7 +1186,7 @@
   },
   {
     "id": 80,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "¿Requiere coma tras subordinada?",
     "options": [
@@ -1201,7 +1201,7 @@
   },
   {
     "id": 81,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "“Los estudiantes que se esfuerzan...”.",
     "options": [
@@ -1216,7 +1216,7 @@
   },
   {
     "id": 82,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Gerundio inadecuado (posterioridad).",
     "options": [
@@ -1231,7 +1231,7 @@
   },
   {
     "id": 83,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Pretérito imperfecto correcto.",
     "options": [
@@ -1246,9 +1246,9 @@
   },
   {
     "id": 84,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Diptongo.",
+    "question": "Identifique cuál de las opciones es un ejemplo de **Diptongo** (Unión de dos vocales en una misma sílaba (vocal abierta + cerrada átona, o dos cerradas)):",
     "options": [
       "Poeta (hiato).",
       "Ciudad (iu).",
@@ -1261,9 +1261,9 @@
   },
   {
     "id": 85,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Hiato.",
+    "question": "Identifique cuál de las opciones es un ejemplo de **Hiato** (Encuentro de dos vocales que se pronuncian en sílabas distintas (vocal abierta + abierta, o vocal cerrada tónica + abierta)):",
     "options": [
       "Diario.",
       "Cielo.",
@@ -1276,9 +1276,9 @@
   },
   {
     "id": 86,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Triptongo.",
+    "question": "Identifique cuál de las opciones es un ejemplo de **Triptongo** (Unión de tres vocales en una sola sílaba (vocal cerrada + abierta + cerrada)):",
     "options": [
       "Fiebre.",
       "Buey (u-e-y).",
@@ -1291,7 +1291,7 @@
   },
   {
     "id": 87,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "“Murciélago”.",
     "options": [
@@ -1306,7 +1306,7 @@
   },
   {
     "id": 88,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Esdrújula.",
     "options": [
@@ -1321,7 +1321,7 @@
   },
   {
     "id": 89,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Acentuación correcta.",
     "options": [
@@ -1336,7 +1336,7 @@
   },
   {
     "id": 90,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Palíndromo.",
     "options": [
@@ -1351,7 +1351,7 @@
   },
   {
     "id": 91,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "“Contrato” es:",
     "options": [
@@ -1366,7 +1366,7 @@
   },
   {
     "id": 92,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Modo condicional correcto.",
     "options": [
@@ -1381,7 +1381,7 @@
   },
   {
     "id": 93,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Participio irregular.",
     "options": [
@@ -1396,7 +1396,7 @@
   },
   {
     "id": 94,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Pretérito perfecto compuesto.",
     "options": [
@@ -1411,7 +1411,7 @@
   },
   {
     "id": 95,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "“Cuando termine, entregaré”.",
     "options": [
@@ -1426,7 +1426,7 @@
   },
   {
     "id": 96,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "“Si hubieras estudiado, habrías aprobado”.",
     "options": [
@@ -1441,7 +1441,7 @@
   },
   {
     "id": 97,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Perífrasis verbal.",
     "options": [
@@ -1456,7 +1456,7 @@
   },
   {
     "id": 98,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Refrán similar a “La cigarra y la hormiga”.",
     "options": [
@@ -1471,7 +1471,7 @@
   },
   {
     "id": 99,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Tono en la fábula.",
     "options": [
@@ -1486,7 +1486,7 @@
   },
   {
     "id": 100,
-    "topic": "4 Conocimientos lingüísticos y gramaticales",
+    "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
     "question": "Habilidades de evaluar argumentos.",
     "options": [
