@@ -2,7 +2,7 @@
   {
     "id": 1,
     "topic": "Comprensión Literal",
-    "text": "Texto 1. Lee el siguiente fragmento de un artículo de El Espectador sobre la ampliación de la Reserva Van der Hammen y responde las preguntas 1–5.",
+    "text": "La Administración Distrital presentó un proyecto para ampliar la Reserva Thomas van der Hammen en Bogotá. La propuesta contempla que los propietarios de aproximadamente 184,50 hectáreas dentro de la reserva puedan transferir sus derechos de construcción a otras zonas de la ciudad, a cambio de permitir la restauración ambiental de estas áreas protegidas.\n\nEl objetivo prioritario es cuidar el agua y la biodiversidad de la región. Como parte del mismo esfuerzo ambiental, se adelanta un proyecto de adaptación en los Cerros Orientales que destinará cerca de 92 millones de dólares para intervenir 172.499 hectáreas. Hasta el momento se han restaurado 897,61 hectáreas, con la meta de llegar a 1.300 hectáreas restauradas.",
     "question": "Identifique qué propone la administración para ampliar la reserva:",
     "options": [
       "Vender las 184,50 hectáreas de la reserva.",
@@ -11,13 +11,13 @@
       "Conceder licencias de explotación minera dentro de la reserva."
     ],
     "correctAnswer": 2,
-    "explanation": "los propietarios de 184,50 hectáreas reciben derechos para construir en otras zonas a cambio de permitir la restauración de la reserva.",
+    "explanation": "La administración propone un mecanismo de transferencia de derechos: los propietarios de 184,50 hectáreas pueden ceder sus derechos de construcción a otras zonas a cambio de permitir la restauración ecológica de la reserva.",
     "source": "Artículo de El Espectador."
   },
   {
     "id": 2,
     "topic": "Comprensión Literal",
-    "text": "Texto 1. Lee el siguiente fragmento de un artículo de El Espectador sobre la ampliación de la Reserva Van der Hammen y responde las preguntas 1–5.",
+    "text": "La Administración Distrital presentó un proyecto para ampliar la Reserva Thomas van der Hammen en Bogotá. La propuesta contempla que los propietarios de aproximadamente 184,50 hectáreas dentro de la reserva puedan transferir sus derechos de construcción a otras zonas de la ciudad, a cambio de permitir la restauración ambiental de estas áreas protegidas.\n\nEl objetivo prioritario es cuidar el agua y la biodiversidad de la región. Como parte del mismo esfuerzo ambiental, se adelanta un proyecto de adaptación en los Cerros Orientales que destinará cerca de 92 millones de dólares para intervenir 172.499 hectáreas. Hasta el momento se han restaurado 897,61 hectáreas, con la meta de llegar a 1.300 hectáreas restauradas.",
     "question": "Identifique qué cifras se dan sobre el proyecto de restauración en los Cerros Orientales:",
     "options": [
       "Restaurar 184,50 hectáreas y ampliar la reserva a 172 499 hectáreas.",
@@ -26,13 +26,13 @@
       "Construir 92 hectáreas de vivienda y vender 897 millones de dólares."
     ],
     "correctAnswer": 1,
-    "explanation": "El artículo menciona que el proyecto de adaptación ambiental destinará cerca de 92 millones de dólares para intervenir 172 499 hectáreas y que se restaurarán 897,61 hectáreas, con el objetivo de llegar a 1 300 hectáreas.",
+    "explanation": "El artículo menciona datos específicos: inversión de 92 millones de dólares para intervenir 172.499 hectáreas, con 897,61 hectáreas ya restauradas y una meta de 1.300 hectáreas.",
     "source": "Artículo de El Espectador."
   },
   {
     "id": 3,
     "topic": "Inferencia y Deducción",
-    "text": "Texto 1. Lee el siguiente fragmento de un artículo de El Espectador sobre la ampliación de la Reserva Van der Hammen y responde las preguntas 1–5.",
+    "text": "La Administración Distrital presentó un proyecto para ampliar la Reserva Thomas van der Hammen en Bogotá. La propuesta contempla que los propietarios de aproximadamente 184,50 hectáreas dentro de la reserva puedan transferir sus derechos de construcción a otras zonas de la ciudad, a cambio de permitir la restauración ambiental de estas áreas protegidas.\n\nEl objetivo prioritario es cuidar el agua y la biodiversidad de la región. Como parte del mismo esfuerzo ambiental, se adelanta un proyecto de adaptación en los Cerros Orientales que destinará cerca de 92 millones de dólares para intervenir 172.499 hectáreas. Hasta el momento se han restaurado 897,61 hectáreas, con la meta de llegar a 1.300 hectáreas restauradas.",
     "question": "De acuerdo con el fragmento, ¿qué implica la afirmación “el objetivo prioritario es cuidar el agua y la biodiversidad”?",
     "options": [
       "Construir viviendas en la reserva.",
@@ -41,13 +41,13 @@
       "Promover el uso recreativo de la zona sin restaurarla."
     ],
     "correctAnswer": 1,
-    "explanation": "La frase citada explica que la prioridad es cuidar el agua y la biodiversidad, lo que se refiere a proteger las fuentes hídricas y la flora y fauna de la reserva.",
+    "explanation": "La frase \"cuidar el agua y la biodiversidad\" implica proteger los recursos hídricos (quebradas, humedales) y conservar la flora y fauna nativa de la reserva.",
     "source": "Artículo de El Espectador."
   },
   {
     "id": 4,
     "topic": "Comprensión Literal",
-    "text": "Texto 1. Lee el siguiente fragmento de un artículo de El Espectador sobre la ampliación de la Reserva Van der Hammen y responde las preguntas 1–5.",
+    "text": "La Administración Distrital presentó un proyecto para ampliar la Reserva Thomas van der Hammen en Bogotá. La propuesta contempla que los propietarios de aproximadamente 184,50 hectáreas dentro de la reserva puedan transferir sus derechos de construcción a otras zonas de la ciudad, a cambio de permitir la restauración ambiental de estas áreas protegidas.\n\nEl objetivo prioritario es cuidar el agua y la biodiversidad de la región. Como parte del mismo esfuerzo ambiental, se adelanta un proyecto de adaptación en los Cerros Orientales que destinará cerca de 92 millones de dólares para intervenir 172.499 hectáreas. Hasta el momento se han restaurado 897,61 hectáreas, con la meta de llegar a 1.300 hectáreas restauradas.",
     "question": "¿Cuántas hectáreas están contempladas en el proyecto de adaptación ambiental y cuánto dinero se planea invertir, según el texto?",
     "options": [
       "172 499 hectáreas y 92 millones de dólares.",
@@ -62,7 +62,7 @@
   {
     "id": 5,
     "topic": "Inferencia y Deducción",
-    "text": "Texto 1. Lee el siguiente fragmento de un artículo de El Espectador sobre la ampliación de la Reserva Van der Hammen y responde las preguntas 1–5.",
+    "text": "La Administración Distrital presentó un proyecto para ampliar la Reserva Thomas van der Hammen en Bogotá. La propuesta contempla que los propietarios de aproximadamente 184,50 hectáreas dentro de la reserva puedan transferir sus derechos de construcción a otras zonas de la ciudad, a cambio de permitir la restauración ambiental de estas áreas protegidas.\n\nEl objetivo prioritario es cuidar el agua y la biodiversidad de la región. Como parte del mismo esfuerzo ambiental, se adelanta un proyecto de adaptación en los Cerros Orientales que destinará cerca de 92 millones de dólares para intervenir 172.499 hectáreas. Hasta el momento se han restaurado 897,61 hectáreas, con la meta de llegar a 1.300 hectáreas restauradas.",
     "question": "El fragmento menciona que se restaurarán 897,61 hectáreas y que la meta es llegar a 1 300 hectáreas. ¿Qué representa esta meta?",
     "options": [
       "La superficie construida que se autorizó en la reserva.",
@@ -77,7 +77,7 @@
   {
     "id": 6,
     "topic": "Comprensión Literal",
-    "text": "Texto 2. Lee el siguiente fragmento de un artículo de opinión sobre la crisis hídrica y la resolución del Ministerio de Ambiente y responde las preguntas 6–8.",
+    "text": "El país está viviendo una crisis de agua. La suspensión del proyecto Chingaza 2, destinado a garantizar el abastecimiento de Bogotá y su región, nos dejó sin infraestructura adicional para enfrentar la sequía. Por ello, se implementó racionamiento, lo cual ha permitido que el embalse tenga 48 millones de m³ más de agua que antes.\n\nSin embargo, la resolución del Ministerio de Ambiente se cuestiona porque, según los críticos, se expidió sin la debida participación ciudadana y con escasa claridad jurídica. Podría afectar hasta 206.000 viviendas y detener importantes proyectos viales y de vivienda en la ciudad.",
     "question": "Explique la razón por la cual se implementó el racionamiento de agua, según el artículo:",
     "options": [
       "Para aumentar el consumo de agua en la ciudad.",
@@ -86,13 +86,13 @@
       "Para vender agua a otros municipios."
     ],
     "correctAnswer": 2,
-    "explanation": "El texto explica que la suspensión del proyecto Chingaza 2 dejó a la región sin capacidad adicional; ante la sequía se implementó un racionamiento.",
+    "explanation": "El racionamiento se implementó porque la cancelación del proyecto Chingaza 2 dejó a Bogotá sin capacidad adicional de abastecimiento para enfrentar la sequía.",
     "source": "Artículo de opinión."
   },
   {
     "id": 7,
     "topic": "Inferencia y Deducción",
-    "text": "Texto 2. Lee el siguiente fragmento de un artículo de opinión sobre la crisis hídrica y la resolución del Ministerio de Ambiente y responde las preguntas 6–8.",
+    "text": "El país está viviendo una crisis de agua. La suspensión del proyecto Chingaza 2, destinado a garantizar el abastecimiento de Bogotá y su región, nos dejó sin infraestructura adicional para enfrentar la sequía. Por ello, se implementó racionamiento, lo cual ha permitido que el embalse tenga 48 millones de m³ más de agua que antes.\n\nSin embargo, la resolución del Ministerio de Ambiente se cuestiona porque, según los críticos, se expidió sin la debida participación ciudadana y con escasa claridad jurídica. Podría afectar hasta 206.000 viviendas y detener importantes proyectos viales y de vivienda en la ciudad.",
     "question": "De acuerdo con el fragmento, ¿qué crítica se hace a la resolución del Ministerio de Ambiente?",
     "options": [
       "Que se elaboró con amplia participación ciudadana.",
@@ -101,13 +101,13 @@
       "Que incluye un plan financiero detallado y transparente."
     ],
     "correctAnswer": 1,
-    "explanation": "El texto señala que la resolución se cuestiona por falta de participación y claridad jurídica.",
+    "explanation": "Los críticos señalan que la resolución del Ministerio se expidió sin suficiente participación ciudadana y sin claridad jurídica, lo que podría afectar proyectos de vivienda y viales.",
     "source": "Artículo de opinión."
   },
   {
     "id": 8,
     "topic": "Inferencia y Deducción",
-    "text": "Texto 2. Lee el siguiente fragmento de un artículo de opinión sobre la crisis hídrica y la resolución del Ministerio de Ambiente y responde las preguntas 6–8.",
+    "text": "El país está viviendo una crisis de agua. La suspensión del proyecto Chingaza 2, destinado a garantizar el abastecimiento de Bogotá y su región, nos dejó sin infraestructura adicional para enfrentar la sequía. Por ello, se implementó racionamiento, lo cual ha permitido que el embalse tenga 48 millones de m³ más de agua que antes.\n\nSin embargo, la resolución del Ministerio de Ambiente se cuestiona porque, según los críticos, se expidió sin la debida participación ciudadana y con escasa claridad jurídica. Podría afectar hasta 206.000 viviendas y detener importantes proyectos viales y de vivienda en la ciudad.",
     "question": "El artículo afirma que la resolución podría afectar hasta 206 000 viviendas. ¿Qué implicación tiene esto en el debate público?",
     "options": [
       "Que la resolución facilita la construcción de vivienda social.",
@@ -122,7 +122,7 @@
   {
     "id": 9,
     "topic": "Comprensión Literal",
-    "text": "Texto 3. Lee el siguiente fragmento del informe sobre la encuesta de conciencia ambiental realizada por Valora Analitik y responde las preguntas 9–15.",
+    "text": "Un reciente estudio de Valora Analitik encontró que el 91% de los colombianos está interesado en temas ambientales y el 86% considera que estos temas afectan su vida cotidiana. La encuesta revela que el 60% cree que los ciudadanos son los principales responsables de la crisis ambiental, pero también de su solución.\n\nEntre los problemas que más preocupan se encuentran:\n• Reciclaje y gestión de residuos: 37,9%\n• Reducción del uso de plásticos: 21,9%\n• Contaminación del aire: 18,7%\n• Cambio climático: 18,2%\n\nEl 51,5% sostiene que la solución depende de la acción colectiva. En la población joven (16-28 años) solo el 25% conoce organizaciones ambientales, mientras que los adultos (29-43 años) lideran en participación. Un 60% de los encuestados cree que todavía hay tiempo para evitar un colapso climático si se cambia de actitud y se brinda información clara.",
     "question": "Según el estudio, ¿qué porcentaje de colombianos está interesado en temas ambientales?",
     "options": [
       "60 %",
@@ -131,14 +131,14 @@
       "86 %"
     ],
     "correctAnswer": 2,
-    "explanation": "El texto señala que 91 % de los encuestados manifestó interés.",
+    "explanation": "El texto indica explícitamente que el 91% de los colombianos encuestados manifestó interés en temas ambientales.",
     "source": "Informe de Valora Analitik."
   },
   {
     "id": 10,
     "topic": "Comprensión Literal",
-    "text": "Texto 3. Lee el siguiente fragmento del informe sobre la encuesta de conciencia ambiental realizada por Valora Analitik y responde las preguntas 9–15.",
-    "question": "Determine de las siguientes problemáticas ambientales aparece como la más preocupante para los encuestados, según el informe:",
+    "text": "Un reciente estudio de Valora Analitik encontró que el 91% de los colombianos está interesado en temas ambientales y el 86% considera que estos temas afectan su vida cotidiana. La encuesta revela que el 60% cree que los ciudadanos son los principales responsables de la crisis ambiental, pero también de su solución.\n\nEntre los problemas que más preocupan se encuentran:\n• Reciclaje y gestión de residuos: 37,9%\n• Reducción del uso de plásticos: 21,9%\n• Contaminación del aire: 18,7%\n• Cambio climático: 18,2%\n\nEl 51,5% sostiene que la solución depende de la acción colectiva. En la población joven (16-28 años) solo el 25% conoce organizaciones ambientales, mientras que los adultos (29-43 años) lideran en participación. Un 60% de los encuestados cree que todavía hay tiempo para evitar un colapso climático si se cambia de actitud y se brinda información clara.",
+    "question": "Según el informe, ¿cuál de las siguientes problemáticas ambientales aparece como la más preocupante para los encuestados?",
     "options": [
       "El cambio climático.",
       "La contaminación del aire.",
@@ -146,13 +146,13 @@
       "El reciclaje y la gestión de residuos."
     ],
     "correctAnswer": 3,
-    "explanation": "El informe indica que 37,9 % considera que el problema más inquietante es el reciclaje.",
+    "explanation": "El reciclaje y la gestión de residuos encabeza la lista de preocupaciones con 37,9%, seguido por reducción de plásticos (21,9%), contaminación del aire (18,7%) y cambio climático (18,2%).",
     "source": "Informe de Valora Analitik."
   },
   {
     "id": 11,
     "topic": "Comprensión Literal",
-    "text": "Texto 3. Lee el siguiente fragmento del informe sobre la encuesta de conciencia ambiental realizada por Valora Analitik y responde las preguntas 9–15.",
+    "text": "Un reciente estudio de Valora Analitik encontró que el 91% de los colombianos está interesado en temas ambientales y el 86% considera que estos temas afectan su vida cotidiana. La encuesta revela que el 60% cree que los ciudadanos son los principales responsables de la crisis ambiental, pero también de su solución.\n\nEntre los problemas que más preocupan se encuentran:\n• Reciclaje y gestión de residuos: 37,9%\n• Reducción del uso de plásticos: 21,9%\n• Contaminación del aire: 18,7%\n• Cambio climático: 18,2%\n\nEl 51,5% sostiene que la solución depende de la acción colectiva. En la población joven (16-28 años) solo el 25% conoce organizaciones ambientales, mientras que los adultos (29-43 años) lideran en participación. Un 60% de los encuestados cree que todavía hay tiempo para evitar un colapso climático si se cambia de actitud y se brinda información clara.",
     "question": "Identifique qué porcentaje de encuestados cree que los ciudadanos son responsables de la crisis ambiental y de su solución:",
     "options": [
       "86 %",
@@ -167,7 +167,7 @@
   {
     "id": 12,
     "topic": "Comprensión Literal",
-    "text": "Texto 3. Lee el siguiente fragmento del informe sobre la encuesta de conciencia ambiental realizada por Valora Analitik y responde las preguntas 9–15.",
+    "text": "Un reciente estudio de Valora Analitik encontró que el 91% de los colombianos está interesado en temas ambientales y el 86% considera que estos temas afectan su vida cotidiana. La encuesta revela que el 60% cree que los ciudadanos son los principales responsables de la crisis ambiental, pero también de su solución.\n\nEntre los problemas que más preocupan se encuentran:\n• Reciclaje y gestión de residuos: 37,9%\n• Reducción del uso de plásticos: 21,9%\n• Contaminación del aire: 18,7%\n• Cambio climático: 18,2%\n\nEl 51,5% sostiene que la solución depende de la acción colectiva. En la población joven (16-28 años) solo el 25% conoce organizaciones ambientales, mientras que los adultos (29-43 años) lideran en participación. Un 60% de los encuestados cree que todavía hay tiempo para evitar un colapso climático si se cambia de actitud y se brinda información clara.",
     "question": "Según el texto, ¿cuál es la postura mayoritaria frente a la solución de la crisis ambiental?",
     "options": [
       "Esperar a que los gobiernos actúen por sí solos.",
@@ -182,7 +182,7 @@
   {
     "id": 13,
     "topic": "Inferencia y Deducción",
-    "text": "Texto 3. Lee el siguiente fragmento del informe sobre la encuesta de conciencia ambiental realizada por Valora Analitik y responde las preguntas 9–15.",
+    "text": "Un reciente estudio de Valora Analitik encontró que el 91% de los colombianos está interesado en temas ambientales y el 86% considera que estos temas afectan su vida cotidiana. La encuesta revela que el 60% cree que los ciudadanos son los principales responsables de la crisis ambiental, pero también de su solución.\n\nEntre los problemas que más preocupan se encuentran:\n• Reciclaje y gestión de residuos: 37,9%\n• Reducción del uso de plásticos: 21,9%\n• Contaminación del aire: 18,7%\n• Cambio climático: 18,2%\n\nEl 51,5% sostiene que la solución depende de la acción colectiva. En la población joven (16-28 años) solo el 25% conoce organizaciones ambientales, mientras que los adultos (29-43 años) lideran en participación. Un 60% de los encuestados cree que todavía hay tiempo para evitar un colapso climático si se cambia de actitud y se brinda información clara.",
     "question": "Identifique qué diferencia se observa entre los jóvenes (16–28 años) y los adultos (29–43 años) en relación con las organizaciones ambientales:",
     "options": [
       "Los jóvenes conocen más organizaciones.",
@@ -197,7 +197,7 @@
   {
     "id": 14,
     "topic": "Comprensión Literal",
-    "text": "Texto 3. Lee el siguiente fragmento del informe sobre la encuesta de conciencia ambiental realizada por Valora Analitik y responde las preguntas 9–15.",
+    "text": "Un reciente estudio de Valora Analitik encontró que el 91% de los colombianos está interesado en temas ambientales y el 86% considera que estos temas afectan su vida cotidiana. La encuesta revela que el 60% cree que los ciudadanos son los principales responsables de la crisis ambiental, pero también de su solución.\n\nEntre los problemas que más preocupan se encuentran:\n• Reciclaje y gestión de residuos: 37,9%\n• Reducción del uso de plásticos: 21,9%\n• Contaminación del aire: 18,7%\n• Cambio climático: 18,2%\n\nEl 51,5% sostiene que la solución depende de la acción colectiva. En la población joven (16-28 años) solo el 25% conoce organizaciones ambientales, mientras que los adultos (29-43 años) lideran en participación. Un 60% de los encuestados cree que todavía hay tiempo para evitar un colapso climático si se cambia de actitud y se brinda información clara.",
     "question": "Identifique qué porcentaje de personas cree que aún hay tiempo para evitar un colapso climático si se cambia la actitud:",
     "options": [
       "51,5 %",
@@ -212,7 +212,7 @@
   {
     "id": 15,
     "topic": "Inferencia y Deducción",
-    "text": "Texto 3. Lee el siguiente fragmento del informe sobre la encuesta de conciencia ambiental realizada por Valora Analitik y responde las preguntas 9–15.",
+    "text": "Un reciente estudio de Valora Analitik encontró que el 91% de los colombianos está interesado en temas ambientales y el 86% considera que estos temas afectan su vida cotidiana. La encuesta revela que el 60% cree que los ciudadanos son los principales responsables de la crisis ambiental, pero también de su solución.\n\nEntre los problemas que más preocupan se encuentran:\n• Reciclaje y gestión de residuos: 37,9%\n• Reducción del uso de plásticos: 21,9%\n• Contaminación del aire: 18,7%\n• Cambio climático: 18,2%\n\nEl 51,5% sostiene que la solución depende de la acción colectiva. En la población joven (16-28 años) solo el 25% conoce organizaciones ambientales, mientras que los adultos (29-43 años) lideran en participación. Un 60% de los encuestados cree que todavía hay tiempo para evitar un colapso climático si se cambia de actitud y se brinda información clara.",
     "question": "De acuerdo con la encuesta, ¿por qué es importante brindar información clara y permitir la participación ciudadana?",
     "options": [
       "Porque la mayoría desconoce organizaciones.",
@@ -227,8 +227,8 @@
   {
     "id": 16,
     "topic": "Evaluación Crítica",
-    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Determine es la diferencia entre los textos continuos e informativos y los discontinuos, según la guía del ICFES:",
+    "text": "Según la Guía de Orientación Saber 11 del ICFES, la prueba de Lectura Crítica evalúa competencias mediante textos continuos y discontinuos:\n\nTEXTOS CONTINUOS: Se leen de manera secuencial (frases y párrafos)\n• Literarios: novelas, cuentos, poemas (24% de la prueba)\n• Informativos no filosóficos: ensayos, columnas, crónicas (30%)\n• Informativos filosóficos: textos argumentativos filosóficos (30%)\n\nTEXTOS DISCONTINUOS: Incluyen tablas, gráficos o infografías\n• Literarios: cómic (8%)\n• Informativos: infografía, reglamento (8%)\n\nLos niveles de desempeño incluyen: identificar información local, articular elementos del texto, y evaluar argumentos reconociendo supuestos, implicaciones y estrategias retóricas.",
+    "question": "¿Cuál es la diferencia entre los textos continuos y los textos discontinuos, según la guía del ICFES?",
     "options": [
       "Los textos continuos se presentan con imágenes únicamente.",
       "Los textos discontinuos tienen una estructura lineal.",
@@ -242,7 +242,7 @@
   {
     "id": 17,
     "topic": "Comprensión Literal",
-    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "text": "Según la Guía de Orientación Saber 11 del ICFES, la prueba de Lectura Crítica evalúa competencias mediante textos continuos y discontinuos:\n\nTEXTOS CONTINUOS: Se leen de manera secuencial (frases y párrafos)\n• Literarios: novelas, cuentos, poemas (24% de la prueba)\n• Informativos no filosóficos: ensayos, columnas, crónicas (30%)\n• Informativos filosóficos: textos argumentativos filosóficos (30%)\n\nTEXTOS DISCONTINUOS: Incluyen tablas, gráficos o infografías\n• Literarios: cómic (8%)\n• Informativos: infografía, reglamento (8%)\n\nLos niveles de desempeño incluyen: identificar información local, articular elementos del texto, y evaluar argumentos reconociendo supuestos, implicaciones y estrategias retóricas.",
     "question": "Identifique qué porcentaje de preguntas se dedica a textos continuos informativos no filosóficos:",
     "options": [
       "24 %",
@@ -257,7 +257,7 @@
   {
     "id": 18,
     "topic": "Inferencia y Deducción",
-    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
+    "text": "Según la Guía de Orientación Saber 11 del ICFES, la prueba de Lectura Crítica evalúa competencias mediante textos continuos y discontinuos:\n\nTEXTOS CONTINUOS: Se leen de manera secuencial (frases y párrafos)\n• Literarios: novelas, cuentos, poemas (24% de la prueba)\n• Informativos no filosóficos: ensayos, columnas, crónicas (30%)\n• Informativos filosóficos: textos argumentativos filosóficos (30%)\n\nTEXTOS DISCONTINUOS: Incluyen tablas, gráficos o infografías\n• Literarios: cómic (8%)\n• Informativos: infografía, reglamento (8%)\n\nLos niveles de desempeño incluyen: identificar información local, articular elementos del texto, y evaluar argumentos reconociendo supuestos, implicaciones y estrategias retóricas.",
     "question": "La guía indica que el nivel de desempeño relacionado con identificar información local y articular elementos corresponde a:",
     "options": [
       "Comprender la estructura profunda.",
@@ -272,8 +272,8 @@
   {
     "id": 19,
     "topic": "Inferencia y Deducción",
-    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Determine es la categoría de textos continuos que recibe el mayor porcentaje de preguntas:",
+    "text": "Según la Guía de Orientación Saber 11 del ICFES, la prueba de Lectura Crítica evalúa competencias mediante textos continuos y discontinuos:\n\nTEXTOS CONTINUOS: Se leen de manera secuencial (frases y párrafos)\n• Literarios: novelas, cuentos, poemas (24% de la prueba)\n• Informativos no filosóficos: ensayos, columnas, crónicas (30%)\n• Informativos filosóficos: textos argumentativos filosóficos (30%)\n\nTEXTOS DISCONTINUOS: Incluyen tablas, gráficos o infografías\n• Literarios: cómic (8%)\n• Informativos: infografía, reglamento (8%)\n\nLos niveles de desempeño incluyen: identificar información local, articular elementos del texto, y evaluar argumentos reconociendo supuestos, implicaciones y estrategias retóricas.",
+    "question": "¿Cuál es la categoría de textos que recibe el mayor porcentaje de preguntas?",
     "options": [
       "Textos literarios discontinuos.",
       "Textos continuos informativos no filosóficos.",
@@ -287,8 +287,8 @@
   {
     "id": 20,
     "topic": "Inferencia y Deducción",
-    "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Determine de las siguientes afirmaciones es verdadera acerca de los textos literarios:",
+    "text": "Según la Guía de Orientación Saber 11 del ICFES, la prueba de Lectura Crítica evalúa competencias mediante textos continuos y discontinuos:\n\nTEXTOS CONTINUOS: Se leen de manera secuencial (frases y párrafos)\n• Literarios: novelas, cuentos, poemas (24% de la prueba)\n• Informativos no filosóficos: ensayos, columnas, crónicas (30%)\n• Informativos filosóficos: textos argumentativos filosóficos (30%)\n\nTEXTOS DISCONTINUOS: Incluyen tablas, gráficos o infografías\n• Literarios: cómic (8%)\n• Informativos: infografía, reglamento (8%)\n\nLos niveles de desempeño incluyen: identificar información local, articular elementos del texto, y evaluar argumentos reconociendo supuestos, implicaciones y estrategias retóricas.",
+    "question": "¿Cuál de las siguientes afirmaciones es verdadera acerca de los textos literarios?",
     "options": [
       "Representan el 42 %.",
       "Son parte de los textos continuos y representan el 24 %.",
@@ -311,7 +311,7 @@
       "Repetir sonidos."
     ],
     "correctAnswer": 1,
-    "explanation": "La hipérbole es una figura que exagera al aumentar o disminuir.",
+    "explanation": "La hipérbole es una figura retórica que consiste en exagerar de manera intencional aspectos de la realidad para enfatizar una idea o producir un efecto expresivo.",
     "source": "Diccionario RAE."
   },
   {
@@ -326,7 +326,7 @@
       "El sonido se repite."
     ],
     "correctAnswer": 0,
-    "explanation": "“Lloró a mares” exagera desproporcionadamente.",
+    "explanation": "\"Lloró a mares\" es hipérbole porque exagera intencionalmente la cantidad de llanto (nadie llora literalmente un mar de lágrimas) para enfatizar la intensidad emocional.",
     "source": "RAE."
   },
   {
@@ -341,7 +341,7 @@
       "Exagerar."
     ],
     "correctAnswer": 2,
-    "explanation": "El símil compara dos términos con partículas comparativas.",
+    "explanation": "El símil (o comparación) establece una relación de semejanza entre dos elementos usando partículas comparativas como \"como\", \"cual\", \"tal como\" o \"parece\".",
     "source": "RAE."
   },
   {
@@ -371,7 +371,7 @@
       "Repetir sonidos."
     ],
     "correctAnswer": 2,
-    "explanation": "Atribuye conductas humanas a seres no humanos.",
+    "explanation": "La personificación (o prosopopeya) atribuye cualidades, acciones o sentimientos humanos a seres inanimados, animales o conceptos abstractos.",
     "source": "RAE."
   },
   {
@@ -401,7 +401,7 @@
       "Adverbio."
     ],
     "correctAnswer": 0,
-    "explanation": "Enlaza oraciones o palabras.",
+    "explanation": "Una conjunción es una palabra invariable que conecta oraciones, sintagmas o palabras, estableciendo relaciones de coordinación (y, o, pero) o subordinación (que, aunque, porque).",
     "source": "RAE."
   },
   {
@@ -416,14 +416,14 @@
       "Pronombre."
     ],
     "correctAnswer": 1,
-    "explanation": "Enlaza ideas contrapuestas.",
+    "explanation": "\"Pero\" es una conjunción adversativa que enlaza dos ideas contrapuestas o que presentan contraste: María estudiaba (acción positiva) mientras Pedro dormía (acción contrastante).",
     "source": "RAE."
   },
   {
     "id": 29,
     "topic": "Comprensión Literal",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Determine contiene una conjunción subordinante:",
+    "question": "¿Cuál de las siguientes oraciones contiene una conjunción subordinante?",
     "options": [
       "No solo estudia, sino trabaja.",
       "Correr y saltar.",
@@ -438,7 +438,7 @@
     "id": 30,
     "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Seleccione uso correcto de 'porqué'.",
+    "question": "¿En cuál de las siguientes oraciones se usa correctamente la palabra \"porqué\" (sustantivo)?",
     "options": [
       "No entiendo el porqué de tu enojo.",
       "¿Porqué no viniste?",
@@ -446,14 +446,14 @@
       "No sé por qué."
     ],
     "correctAnswer": 0,
-    "explanation": "Escrita junta y con tilde es sustantivo.",
+    "explanation": "\"Porqué\" (junto y con tilde) es un sustantivo que significa \"causa, razón o motivo\". Se usa con artículo: \"No entiendo el porqué de tu enojo\" = \"No entiendo la razón de tu enojo\".",
     "source": "RAE/Fundéu."
   },
   {
     "id": 31,
     "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Interrogativa 'por qué' correcta.",
+    "question": "¿En cuál de las siguientes oraciones se usa correctamente \"por qué\" en forma interrogativa?",
     "options": [
       "El porqué de esta decisión.",
       "Porqué me lo prometiste.",
@@ -461,14 +461,14 @@
       "Porqué llegaste tarde."
     ],
     "correctAnswer": 2,
-    "explanation": "Separada y con tilde en interrogativas.",
+    "explanation": "\"Por qué\" (separado y con tilde) se usa en oraciones interrogativas y exclamativas, tanto directas como indirectas: \"¿Por qué no quieres venir?\"",
     "source": "RAE/Fundéu."
   },
   {
     "id": 32,
     "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Conjunción 'porque' correcta.",
+    "question": "¿En cuál de las siguientes oraciones se usa correctamente la conjunción \"porque\"?",
     "options": [
       "¿Porque no viniste?",
       "No viniste porque estabas enfermo.",
@@ -476,14 +476,14 @@
       "Por que me fui."
     ],
     "correctAnswer": 1,
-    "explanation": "Junta y sin tilde es causal.",
+    "explanation": "\"Porque\" (junto y sin tilde) es una conjunción causal que introduce la causa o razón de algo: \"No viniste porque estabas enfermo\".",
     "source": "RAE/Fundéu."
   },
   {
     "id": 33,
     "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Secuencia 'por que' correcta.",
+    "question": "¿En cuál de las siguientes oraciones se usa correctamente la secuencia \"por que\"?",
     "options": [
       "Preocupado por que llegue tarde.",
       "Por que no viniste.",
@@ -491,14 +491,14 @@
       "¿Por qué?"
     ],
     "correctAnswer": 0,
-    "explanation": "Preposición + relativo.",
+    "explanation": "\"Por que\" (separado y sin tilde) es la combinación de la preposición \"por\" + el pronombre relativo \"que\": \"Estoy preocupado por que llegue tarde\" (preocupado por eso).",
     "source": "RAE/Fundéu."
   },
   {
     "id": 34,
     "topic": "Comprensión Literal",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Uso de 'a ver' según Fundéu.",
+    "question": "Según Fundéu, ¿qué indica la expresión \"a ver\"?",
     "options": [
       "Verbo haber.",
       "Invita a observar.",
@@ -506,7 +506,7 @@
       "Sinónimo de haver."
     ],
     "correctAnswer": 1,
-    "explanation": "Preposición a + verbo ver.",
+    "explanation": "\"A ver\" (preposición \"a\" + verbo \"ver\") se usa para invitar a observar o comprobar algo, expresar expectativa o interés: \"Vamos a ver qué pasa\".",
     "source": "Fundéu."
   },
   {
@@ -528,7 +528,7 @@
     "id": 36,
     "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Expresión 'a ver' bien escrita.",
+    "question": "¿Cuál de las siguientes oraciones tiene la expresión \"a ver\" correctamente escrita?",
     "options": [
       "Haber si nos encontramos.",
       "A ver si terminamos.",
@@ -536,7 +536,7 @@
       "No hay a ver."
     ],
     "correctAnswer": 1,
-    "explanation": "Indica expectativa.",
+    "explanation": "\"A ver si terminamos\" es correcto porque expresa expectativa. El error común es escribir \"haber\" en lugar de \"a ver\" en este contexto.",
     "source": "Fundéu."
   },
   {
@@ -558,7 +558,7 @@
     "id": 38,
     "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Auxiliar 'haber' correcto.",
+    "question": "¿En cuál de las siguientes oraciones se usa correctamente el verbo auxiliar \"haber\"?",
     "options": [
       "Debería a ver terminado.",
       "He haber leído.",
@@ -566,14 +566,14 @@
       "A ver si han haber."
     ],
     "correctAnswer": 2,
-    "explanation": "Impersonal de existencia.",
+    "explanation": "\"Haber\" como verbo impersonal indica existencia: \"Debe haber muchas personas\" (existen muchas personas). No confundir con \"a ver\" (invitación a observar).",
     "source": "Fundéu."
   },
   {
     "id": 39,
     "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Error en “Haber visto esa película”?",
+    "question": "¿Qué error contiene la oración \"Haber visto esa película\"?",
     "options": [
       "'Haber' por 'A ver'.",
       "'A ver' por 'Haber'.",
@@ -581,7 +581,7 @@
       "Sin errores."
     ],
     "correctAnswer": 0,
-    "explanation": "Corresponde a la expresión idiomática.",
+    "explanation": "El error es usar \"haber\" cuando corresponde \"a ver\". La forma correcta es \"A ver esa película\" (invitación a observar) o \"Debí haber visto esa película\" (verbo auxiliar).",
     "source": "Fundéu."
   },
   {
@@ -596,14 +596,14 @@
       "Varios significados."
     ],
     "correctAnswer": 1,
-    "explanation": "Suenan igual, significan distinto.",
+    "explanation": "Las palabras homófonas son aquellas que suenan igual pero tienen diferente escritura y significado, como \"hola\" (saludo) y \"ola\" (onda de agua).",
     "source": "RAE."
   },
   {
     "id": 41,
     "topic": "Comprensión Literal",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Pareja homófona.",
+    "question": "¿Cuál de los siguientes pares de palabras son homófonas?",
     "options": [
       "casa / casa.",
       "caza / casa.",
@@ -611,14 +611,14 @@
       "rayar / rallar."
     ],
     "correctAnswer": 1,
-    "explanation": "Suenan igual en dialectos específicos.",
+    "explanation": "\"Caza\" (acción de cazar) y \"casa\" (vivienda) son homófonas en dialectos donde \"z\" y \"s\" suenan igual (seseo/ceceo). Tienen el mismo sonido pero diferente escritura y significado.",
     "source": "RAE."
   },
   {
     "id": 42,
     "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Homófona correcta: “Ayer me **** en la piscina”.",
+    "question": "Complete correctamente: \"Ayer me ____ en la piscina\".",
     "options": [
       "zurré.",
       "sierve.",
@@ -626,14 +626,14 @@
       "sumergí."
     ],
     "correctAnswer": 3,
-    "explanation": "Del verbo sumergirse.",
+    "explanation": "\"Sumergí\" es la forma correcta del pretérito del verbo \"sumergirse\". Se escribe con \"g\" porque proviene del verbo \"sumergir\".",
     "source": "Homófonos."
   },
   {
     "id": 43,
     "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Error en “La sabia árbol”.",
+    "question": "¿Cómo se corrige el error en la oración \"La sabia árbol está muy grande\"?",
     "options": [
       "La savia del árbol.",
       "La sabia.",
@@ -641,14 +641,14 @@
       "La sabía."
     ],
     "correctAnswer": 0,
-    "explanation": "Savia con 'v' es fluido nutricio.",
+    "explanation": "El error está en \"sabia\" (persona con sabiduría). La forma correcta es \"savia\" (con \"v\"), que es el líquido que circula por las plantas.",
     "source": "Homófonos."
   },
   {
     "id": 44,
     "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Error en homófonas.",
+    "question": "¿Cuál de las siguientes oraciones contiene un error de homófonos?",
     "options": [
       "Vallas para jardín.",
       "Tasa de interés bajó (taza).",
@@ -656,14 +656,14 @@
       "English hat."
     ],
     "correctAnswer": 1,
-    "explanation": "Tasa (índice) se escribe con 's'.",
+    "explanation": "\"Tasa de interés\" es correcto (tasa = índice, proporción). \"Taza\" (con \"z\") es el recipiente para beber. Son homófonas pero tienen significados diferentes.",
     "source": "Homófonos."
   },
   {
     "id": 45,
     "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Igual escritura y sonido.",
+    "question": "¿Cuál de los siguientes pares tiene igual escritura y sonido (homógrafos)?",
     "options": [
       "coser / coser.",
       "grabar / gravar.",
@@ -671,14 +671,14 @@
       "bello / vello."
     ],
     "correctAnswer": 0,
-    "explanation": "Son homógrafos.",
+    "explanation": "Las palabras homógrafas se escriben exactamente igual pero tienen significados diferentes. \"Vino\" puede ser la bebida o el pretérito del verbo \"venir\".",
     "source": "RAE."
   },
   {
     "id": 46,
     "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Parónimo (sonido parecido, significado distinto).",
+    "question": "¿Cuál de las siguientes oraciones contiene un error de parónimos?",
     "options": [
       "Toque de queda.",
       "El artista grabó un disco (gravar).",
@@ -686,14 +686,14 @@
       "La humedad."
     ],
     "correctAnswer": 1,
-    "explanation": "Grabar y gravar son parónimos.",
+    "explanation": "\"Grabó\" (registró sonido/imagen) y \"gravó\" (impuso impuesto) son parónimos: suenan parecido pero tienen diferente escritura y significado.",
     "source": "Homófonos."
   },
   {
     "id": 47,
     "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Explique la razón por la cual 'echó' sin hache:",
+    "question": "¿Por qué \"echó\" (del verbo echar) se escribe sin hache?",
     "options": [
       "Echar líquidos.",
       "Homófonos.",
@@ -701,14 +701,14 @@
       "Ambas válidas."
     ],
     "correctAnswer": 2,
-    "explanation": "Echar es sin 'h'.",
+    "explanation": "El verbo \"echar\" (arrojar, expulsar) nunca lleva \"h\". \"Hecho\" (del verbo hacer) sí lleva \"h\". \"Echó la basura\" vs \"He hecho la tarea\".",
     "source": "Homófonos."
   },
   {
     "id": 48,
     "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "¿No existe homofonía?",
+    "question": "¿En cuál de los siguientes pares NO existe homofonía?",
     "options": [
       "baca / vaca.",
       "barón / varón.",
@@ -716,14 +716,14 @@
       "correr / corredor."
     ],
     "correctAnswer": 3,
-    "explanation": "No suenan igual.",
+    "explanation": "\"Correr\" y \"corredor\" no son homófonos porque no suenan igual; son palabras de la misma familia morfológica pero con pronunciación diferente.",
     "source": "RAE."
   },
   {
     "id": 49,
     "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "¿Homógrafa?",
+    "question": "¿Cuál de los siguientes pares son palabras homógrafas?",
     "options": [
       "vino (bebida) / vino (venir).",
       "bienes / vienes.",
@@ -731,14 +731,14 @@
       "echo / hecho."
     ],
     "correctAnswer": 0,
-    "explanation": "Se escriben e igual.",
+    "explanation": "\"Vino\" (sustantivo: bebida alcohólica) y \"vino\" (verbo: pretérito de venir) son homógrafas: misma escritura, mismo sonido, pero diferente significado.",
     "source": "RAE."
   },
   {
     "id": 50,
     "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Complete: “El ____ exitoso” / “Voy a ____ pastel”.",
+    "question": "Complete las oraciones: \"El ____ fue exitoso\" y \"Voy a ____ el pastel\".",
     "options": [
       "boto / votar.",
       "voto / botar.",
@@ -746,14 +746,14 @@
       "voto / voto."
     ],
     "correctAnswer": 1,
-    "explanation": "Voto (sufragio) y botar (tirar).",
+    "explanation": "\"Voto\" (sustantivo: sufragio) y \"botar\" (verbo: tirar, arrojar). \"El voto fue exitoso\" / \"Voy a botar el pastel\" (tirarlo). Cuidado: \"votar\" es emitir el voto.",
     "source": "RAE."
   },
   {
     "id": 51,
     "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Donde usar 'si no' (separado).",
+    "question": "¿En cuál de las siguientes oraciones se debe usar \"si no\" (separado)?",
     "options": [
       "No té, sino café.",
       "Canta, sino que baila.",
@@ -761,14 +761,14 @@
       "No fácil, sino complejo."
     ],
     "correctAnswer": 2,
-    "explanation": "Condicional + negación.",
+    "explanation": "\"Si no\" (separado) es condicional + negación: \"Salió de prisa, si no regresaba tarde\" = \"Si no hubiera salido de prisa, regresaba tarde\".",
     "source": "RAE/Fundéu."
   },
   {
     "id": 52,
     "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Uso correcto de 'sino que'.",
+    "question": "¿Cuál de las siguientes oraciones usa correctamente \"sino que\"?",
     "options": [
       "No lunes, sino que martes.",
       "No solo estudia, sino que trabaja.",
@@ -776,7 +776,7 @@
       "No dulces, sino que frutas."
     ],
     "correctAnswer": 1,
-    "explanation": "Para añadir idea complementaria.",
+    "explanation": "\"Sino que\" introduce una idea que se añade a una negación previa: \"No solo estudia, sino que también trabaja\". Enlaza acciones complementarias.",
     "source": "Normas."
   },
   {
@@ -791,14 +791,14 @@
       "Sustantivo."
     ],
     "correctAnswer": 2,
-    "explanation": "Mas sin tilde equivale a pero.",
+    "explanation": "\"Mas\" sin tilde es una conjunción adversativa equivalente a \"pero\" (uso literario). \"Más\" con tilde es un adverbio de cantidad. Ejemplo: \"Lo intentó, mas no lo logró\" = \"Lo intentó, pero no lo logró\".",
     "source": "Tilde diacrítica."
   },
   {
     "id": 54,
     "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Adverbio cantidad 'más' correcto.",
+    "question": "¿En cuál de las siguientes oraciones se usa correctamente el adverbio de cantidad \"más\"?",
     "options": [
       "Mas llovía.",
       "Más de cien personas.",
@@ -806,14 +806,14 @@
       "Quiero mas café."
     ],
     "correctAnswer": 1,
-    "explanation": "Cantidad lleva tilde.",
+    "explanation": "\"Más\" con tilde es adverbio de cantidad: \"Más de cien personas\". \"Mas\" sin tilde es conjunción adversativa equivalente a \"pero\".",
     "source": "Tilde diacrítica."
   },
   {
     "id": 55,
     "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Tilde diacrítica en 'té' correcta.",
+    "question": "¿Cuál de las siguientes oraciones usa correctamente la tilde diacrítica en \"té\"?",
     "options": [
       "Te de manzanilla.",
       "Quiero un té con limón.",
@@ -821,14 +821,14 @@
       "Si tomas té."
     ],
     "correctAnswer": 1,
-    "explanation": "Distingue infusión de pronombre.",
+    "explanation": "\"Té\" con tilde es el sustantivo que designa la infusión: \"Quiero un té con limón\". \"Te\" sin tilde es pronombre personal: \"Él te dijo\".",
     "source": "Tilde diacrítica."
   },
   {
     "id": 56,
     "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "'de' y 'dé' correctos.",
+    "question": "¿Cuál de las siguientes oraciones usa correctamente \"de\" y \"dé\"?",
     "options": [
       "Dé este regalo.",
       "Espero que de casa.",
@@ -836,14 +836,14 @@
       "Dijo que dé."
     ],
     "correctAnswer": 0,
-    "explanation": "Dé (verbo dar) lleva tilde.",
+    "explanation": "\"Dé\" con tilde es del verbo dar en subjuntivo/imperativo: \"Dé este regalo\". \"De\" sin tilde es preposición: \"Casa de madera\".",
     "source": "Tilde diacrítica."
   },
   {
     "id": 57,
     "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Función de “él” y “el”.",
+    "question": "¿Cuál es la función gramatical de \"él\" (con tilde) y \"el\" (sin tilde)?",
     "options": [
       "Artículos.",
       "Él pronombre, el artículo.",
@@ -851,14 +851,14 @@
       "Sin tilde."
     ],
     "correctAnswer": 1,
-    "explanation": "Pronombre vs artículo.",
+    "explanation": "\"Él\" con tilde es pronombre personal de tercera persona: \"Él llegó tarde\". \"El\" sin tilde es artículo determinado: \"El libro está aquí\".",
     "source": "Tilde diacrítica."
   },
   {
     "id": 58,
     "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Uso de 'sé' correcto.",
+    "question": "¿En cuál de las siguientes oraciones se usa correctamente \"sé\"?",
     "options": [
       "Se la canción (sé).",
       "Sé valiente.",
@@ -866,14 +866,14 @@
       "Se fuerte (sé)."
     ],
     "correctAnswer": 1,
-    "explanation": "Imperativo del verbo ser.",
+    "explanation": "\"Sé\" con tilde puede ser del verbo saber (\"No sé la respuesta\") o del verbo ser en imperativo (\"Sé valiente\"). \"Se\" sin tilde es pronombre reflexivo.",
     "source": "Tilde diacrítica."
   },
   {
     "id": 59,
     "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Concordancia de género y número.",
+    "question": "¿Cuál de las siguientes oraciones tiene concordancia correcta de género y número?",
     "options": [
       "Los problema gramaticales.",
       "La estudiante aplicada resolvió las preguntas difíciles.",
@@ -881,14 +881,14 @@
       "Las libro."
     ],
     "correctAnswer": 1,
-    "explanation": "Concordancia perfecta.",
+    "explanation": "La concordancia exige que el artículo, sustantivo y adjetivo coincidan en género y número: \"La estudiante aplicada resolvió las preguntas difíciles\" es correcta.",
     "source": "Gramática."
   },
   {
     "id": 60,
     "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Pronombre relativo correcto.",
+    "question": "¿Cuál de las siguientes oraciones usa correctamente el pronombre relativo?",
     "options": [
       "La profesora que enseña.",
       "Libros cual (que).",
@@ -896,14 +896,14 @@
       "Familia cual (la cual)."
     ],
     "correctAnswer": 0,
-    "explanation": "'Que' es el relativo estándar.",
+    "explanation": "\"Que\" es el pronombre relativo más común y versátil: \"La profesora que enseña\" conecta correctamente el antecedente con la oración subordinada.",
     "source": "Gramática."
   },
   {
     "id": 61,
     "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Modo subjuntivo correcto.",
+    "question": "¿Cuál de las siguientes oraciones usa correctamente el modo subjuntivo?",
     "options": [
       "Ojalá vienes.",
       "Quiero que vengas.",
@@ -911,14 +911,14 @@
       "Si tendría."
     ],
     "correctAnswer": 1,
-    "explanation": "Deseo o hipótesis.",
+    "explanation": "El subjuntivo expresa deseo, duda o hipótesis: \"Quiero que vengas\" usa \"vengas\" (subjuntivo) porque depende de un verbo de deseo.",
     "source": "Gramática."
   },
   {
     "id": 62,
     "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Puntuación de enumeración.",
+    "question": "¿Cuál de las siguientes oraciones tiene la puntuación correcta en una enumeración?",
     "options": [
       "Sin comas.",
       "Frutas, verduras, cereales y legumbres.",
@@ -926,14 +926,14 @@
       "Sin coma final."
     ],
     "correctAnswer": 1,
-    "explanation": "Comas correctas.",
+    "explanation": "En enumeraciones, se usa coma entre elementos y \"y\" antes del último: \"Frutas, verduras, cereales y legumbres\" es la puntuación correcta.",
     "source": "Puntuación."
   },
   {
     "id": 63,
     "topic": "Inferencia y Deducción",
     "text": "A continuación se presentan preguntas para evaluar conocimientos sobre figuras retóricas del español.\n\n**Metáfora**: Figura retórica que identifica un término real con otro imaginario, estableciendo una relación de semejanza sin usar partículas comparativas. Ejemplo: «Tus ojos son dos luceros» (no dice «como»).",
-    "question": "Teniendo en cuenta que la **Metáfora** es la identificación de un término real con otro imaginario sin usar nexos comparativos, identifique cuál de las siguientes frases es un ejemplo de esta figura:",
+    "question": "¿Cuál de las siguientes expresiones es una metáfora?",
     "options": [
       "Ojos son dos esmeraldas.",
       "Ruge como un león.",
@@ -941,14 +941,14 @@
       "Canta rápido."
     ],
     "correctAnswer": 0,
-    "explanation": "Identidad sin nexo comparativo.",
+    "explanation": "La metáfora identifica un término real con otro imaginario sin usar comparativos: \"Sus ojos son dos esmeraldas\" establece identidad directa.",
     "source": "Retórica."
   },
   {
     "id": 64,
     "topic": "Inferencia y Deducción",
     "text": "A continuación se presentan preguntas para evaluar conocimientos sobre figuras retóricas del español.\n\n**Personificación (o prosopopeya)**: Figura retórica que atribuye cualidades o acciones humanas a seres inanimados, animales o conceptos abstractos. Ejemplo: «El viento susurra secretos».",
-    "question": "La frase “La primavera besaba...”. es un ejemplo de una figura retórica que consiste en la atribución de rasgos, acciones o sentimientos humanos a seres inanimados o animales. Identifique de qué figura se trata:",
+    "question": "En la frase \"La primavera besaba suavemente...\", ¿qué figura retórica se utiliza?",
     "options": [
       "Metáfora.",
       "Hipérbole.",
@@ -956,14 +956,14 @@
       "Sinestesia."
     ],
     "correctAnswer": 2,
-    "explanation": "Acción humana a objeto inanimado.",
+    "explanation": "\"La primavera besaba\" atribuye una acción humana (besar) a un concepto abstracto (la primavera). Esto es personificación o prosopopeya.",
     "source": "Retórica."
   },
   {
     "id": 65,
     "topic": "Inferencia y Deducción",
     "text": "A continuación se presentan preguntas para evaluar conocimientos sobre figuras retóricas del español.\n\n**Metáfora**: Figura retórica que identifica un término real con otro imaginario, estableciendo una relación de semejanza sin usar partículas comparativas. Ejemplo: «Tus ojos son dos luceros» (no dice «como»).",
-    "question": "La frase “El tiempo es oro”. es un ejemplo de una figura retórica que consiste en la identificación de un término real con otro imaginario sin usar nexos comparativos (como 'como'). Identifique de qué figura se trata:",
+    "question": "La expresión \"El tiempo es oro\" es un ejemplo de:",
     "options": [
       "Metáfora.",
       "Hipérbole.",
@@ -971,14 +971,14 @@
       "Personificación."
     ],
     "correctAnswer": 0,
-    "explanation": "Valoración implícita.",
+    "explanation": "\"El tiempo es oro\" es una metáfora que identifica el tiempo con el oro para expresar su valor. No usa \"como\", por lo que no es símil.",
     "source": "Retórica."
   },
   {
     "id": 66,
     "topic": "Inferencia y Deducción",
     "text": "A continuación se presentan preguntas para evaluar conocimientos sobre figuras retóricas del español.\n\n**Hipérbole**: Figura retórica que consiste en exagerar de manera intencional para enfatizar una idea. Ejemplo: «Te lo he dicho un millón de veces».",
-    "question": "La frase “Estoy muerto de cansancio”. es un ejemplo de una figura retórica que consiste en la exageración intencional de la realidad para enfatizar una idea o sentimiento. Identifique de qué figura se trata:",
+    "question": "La frase \"Estoy muerto de cansancio\" es un ejemplo de:",
     "options": [
       "Metáfora.",
       "Hipérbole.",
@@ -986,14 +986,14 @@
       "Metonimia."
     ],
     "correctAnswer": 1,
-    "explanation": "Exageración extrema.",
+    "explanation": "\"Estoy muerto de cansancio\" exagera intencionalmente (nadie muere literalmente de cansancio) para enfatizar el agotamiento. Es una hipérbole.",
     "source": "RAE."
   },
   {
     "id": 67,
     "topic": "Inferencia y Deducción",
     "text": "A continuación se presentan preguntas para evaluar conocimientos sobre figuras retóricas del español.\n\n**Símil (o comparación)**: Figura retórica que establece una relación de semejanza entre dos elementos usando partículas comparativas como «como», «cual», «tal como» o «parece». Ejemplo: «Sus ojos brillan como estrellas».",
-    "question": "La frase “Tus ojos como el cielo”. es un ejemplo de una figura retórica que consiste en la comparación directa de dos términos usando nexos (como, cual, parece). Identifique de qué figura se trata:",
+    "question": "La expresión \"Tus ojos brillan como el cielo\" contiene:",
     "options": [
       "Metáfora.",
       "Símil.",
@@ -1001,14 +1001,14 @@
       "Sinécdoque."
     ],
     "correctAnswer": 1,
-    "explanation": "Usa nexo 'como'.",
+    "explanation": "\"Como el cielo\" usa la partícula comparativa \"como\", característica del símil. Si dijera \"son el cielo\" sería metáfora.",
     "source": "RAE."
   },
   {
     "id": 68,
     "topic": "Inferencia y Deducción",
     "text": "A continuación se presentan preguntas para evaluar conocimientos sobre figuras retóricas del español.\n\n**Hipérbole**: Figura retórica que consiste en exagerar de manera intencional para enfatizar una idea. Ejemplo: «Te lo he dicho un millón de veces».",
-    "question": "La frase “Perdón mil veces”. es un ejemplo de una figura retórica que consiste en la exageración intencional de la realidad para enfatizar una idea o sentimiento. Identifique de qué figura se trata:",
+    "question": "La frase \"Perdón mil veces\" es un ejemplo de:",
     "options": [
       "Símil.",
       "Hipérbole.",
@@ -1016,14 +1016,14 @@
       "Ironía."
     ],
     "correctAnswer": 1,
-    "explanation": "Exagera cantidad.",
+    "explanation": "\"Mil veces\" es una exageración intencional de la cantidad. Nadie pide perdón literalmente mil veces. Es una hipérbole.",
     "source": "RAE."
   },
   {
     "id": 69,
     "topic": "Inferencia y Deducción",
     "text": "A continuación se presentan preguntas para evaluar conocimientos sobre figuras retóricas del español.\n\n**Ironía**: Figura retórica que expresa lo contrario de lo que se quiere decir, generalmente con intención burlesca o crítica. Ejemplo: «¡Qué buen día!» (cuando llueve a cántaros).",
-    "question": "Teniendo en cuenta que la **Ironía** es la expresión verbal de lo contrario de lo que realmente se piensa o sucede, identifique cuál de las siguientes frases es un ejemplo de esta figura:",
+    "question": "¿Cuál de las siguientes expresiones contiene ironía?",
     "options": [
       "Qué bella noche de tormenta.",
       "Vista de halcón.",
@@ -1031,14 +1031,14 @@
       "Manos son alas."
     ],
     "correctAnswer": 0,
-    "explanation": "Dice lo contrario.",
+    "explanation": "La ironía dice lo contrario de lo que significa. \"Qué bella noche de tormenta\" expresa disgusto usando palabras positivas.",
     "source": "Retórica."
   },
   {
     "id": 70,
     "topic": "Inferencia y Deducción",
     "text": "A continuación se presentan preguntas para evaluar conocimientos sobre figuras retóricas del español.\n\n**Sinécdoque**: Figura retórica que designa una cosa con el nombre de otra, tomando la parte por el todo o viceversa. Ejemplo: «Hay cien almas en la sala» (almas = personas).",
-    "question": "Teniendo en cuenta que la **Sinécdoque** es la sustitución del nombre de un objeto por la parte por el todo (o viceversa), identifique cuál de las siguientes frases es un ejemplo de esta figura:",
+    "question": "¿Cuál de las siguientes expresiones es una sinécdoque?",
     "options": [
       "Cien almas.",
       "Ganó el oro.",
@@ -1046,14 +1046,14 @@
       "No veo el barco, solo las velas."
     ],
     "correctAnswer": 3,
-    "explanation": "Parte por el todo.",
+    "explanation": "La sinécdoque toma la parte por el todo o viceversa. \"No veo el barco, solo las velas\" usa una parte (velas) para referirse al todo (barco).",
     "source": "Retórica."
   },
   {
     "id": 71,
     "topic": "Inferencia y Deducción",
     "text": "A continuación se presentan preguntas para evaluar conocimientos sobre figuras retóricas del español.\n\n**Calambur**: Figura retórica que consiste en reagrupar las sílabas de una o más palabras de otro modo para producir un sentido diferente. Ejemplo: «Si el Rey no muere, el reino muere» / «Si el reino muere, el Rey no muere».",
-    "question": "Teniendo en cuenta que la **Calambur** consiste en la juego de palabras que reagrupa sílabas para cambiar el sentido, identifique un ejemplo válido:",
+    "question": "La expresión \"Entre el clavel y la rosa, su majestad escoja\" es un ejemplo de:",
     "options": [
       "Si el rey no muere.",
       "Entre el clavel y la rosa, su majestad escoja (es coja).",
@@ -1061,14 +1061,14 @@
       "Huye del agua."
     ],
     "correctAnswer": 1,
-    "explanation": "Juego de ambigüedad sonora.",
+    "explanation": "El calambur es un juego de palabras donde las sílabas pueden reagruparse: \"escoja\" suena como \"es coja\", creando doble sentido.",
     "source": "Retórica."
   },
   {
     "id": 72,
     "topic": "Inferencia y Deducción",
     "text": "A continuación se presentan preguntas para evaluar conocimientos sobre figuras retóricas del español.\n\n**Prosopopeya**: Figura retórica que atribuye cualidades o acciones humanas a seres inanimados, animales o conceptos abstractos. Sinónimo de personificación.",
-    "question": "Teniendo en cuenta que la **Prosopopeya** es la atribución de cualidades o acciones humanas a objetos inanimados o animales (sinónimo de personificación), identifique cuál de las siguientes frases es un ejemplo de esta figura:",
+    "question": "¿Cuál de las siguientes expresiones es una prosopopeya?",
     "options": [
       "Aliteración.",
       "Primavera saluda.",
@@ -1076,14 +1076,14 @@
       "Antítesis."
     ],
     "correctAnswer": 1,
-    "explanation": "Atribuye acción humana.",
+    "explanation": "La prosopopeya (sinónimo de personificación) atribuye acciones humanas a objetos. \"La primavera saluda\" da capacidad de saludar a una estación.",
     "source": "RAE."
   },
   {
     "id": 73,
     "topic": "Inferencia y Deducción",
     "text": "A continuación se presentan preguntas para evaluar conocimientos sobre figuras retóricas del español.\n\n**Sinestesia**: Figura retórica que mezcla sensaciones de diferentes sentidos (vista, oído, tacto, gusto, olfato). Ejemplo: «Palabras dulces» (mezcla gusto y oído).",
-    "question": "Teniendo en cuenta que la **Sinestesia** consiste en la mezcla de sensaciones provenientes de diferentes sentidos (ej. 'sonido dulce'), identifique un ejemplo válido:",
+    "question": "La expresión \"palabras dulces\" es un ejemplo de:",
     "options": [
       "Palabras dulces.",
       "Metáfora.",
@@ -1091,14 +1091,14 @@
       "Hipérbole."
     ],
     "correctAnswer": 0,
-    "explanation": "Mezcla gusto y oído.",
+    "explanation": "La sinestesia mezcla sensaciones de diferentes sentidos. \"Palabras dulces\" combina oído (palabras) con gusto (dulces).",
     "source": "Retórica."
   },
   {
     "id": 74,
     "topic": "Inferencia y Deducción",
     "text": "A continuación se presentan preguntas para evaluar conocimientos sobre figuras retóricas del español.\n\n**Metáfora**: Figura retórica que identifica un término real con otro imaginario, estableciendo una relación de semejanza sin usar partículas comparativas. Ejemplo: «Tus ojos son dos luceros» (no dice «como»).",
-    "question": "La frase “Nuestras vidas son los ríos...”. es un ejemplo de una figura retórica que consiste en la identificación de un término real con otro imaginario sin usar nexos comparativos (como 'como'). Identifique de qué figura se trata:",
+    "question": "La frase \"Nuestras vidas son los ríos que van a dar en la mar\" contiene:",
     "options": [
       "Metáfora.",
       "Símil.",
@@ -1106,14 +1106,14 @@
       "Eufemismo."
     ],
     "correctAnswer": 0,
-    "explanation": "Identidad vida-río.",
+    "explanation": "La metáfora establece identidad entre \"vidas\" y \"ríos\", sugiriendo que la vida fluye inevitablemente hacia su fin (la muerte/el mar).",
     "source": "RAE."
   },
   {
     "id": 75,
     "topic": "Inferencia y Deducción",
     "text": "A continuación se presentan preguntas para evaluar conocimientos sobre figuras retóricas del español.\n\n**Epíteto**: Adjetivo que resalta una cualidad inherente del sustantivo, aunque no sea necesario para comprenderlo. Ejemplo: «la blanca nieve», «el frío invierno».",
-    "question": "Teniendo en cuenta que el **Epíteto** consiste en la adjetivo que resalta una cualidad intrínseca o inherente del sustantivo (ej. 'blanca nieve'), identifique un ejemplo válido entre las opciones:",
+    "question": "¿Cuál de las siguientes expresiones contiene un epíteto?",
     "options": [
       "Elipsis.",
       "Canto divino.",
@@ -1121,14 +1121,14 @@
       "Metonimia."
     ],
     "correctAnswer": 1,
-    "explanation": "Adjetivo resaltante.",
+    "explanation": "El epíteto es un adjetivo que resalta una cualidad inherente: \"canto divino\" enfatiza una cualidad ya asociada al canto.",
     "source": "Retórica."
   },
   {
     "id": 76,
     "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Pretérito pluscuamperfecto correcto.",
+    "question": "¿Cuál de las siguientes oraciones está en pretérito pluscuamperfecto?",
     "options": [
       "Había salido.",
       "Salió.",
@@ -1136,14 +1136,14 @@
       "Saliera."
     ],
     "correctAnswer": 0,
-    "explanation": "Había + participio.",
+    "explanation": "El pretérito pluscuamperfecto se forma con \"había\" + participio: \"Había salido\" indica una acción pasada anterior a otra acción pasada.",
     "source": "Gramática."
   },
   {
     "id": 77,
     "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "“Rápidamente”.",
+    "question": "¿Qué categoría gramatical es la palabra \"rápidamente\"?",
     "options": [
       "Adjetivo.",
       "Adverbio de modo.",
@@ -1151,14 +1151,14 @@
       "Verbo."
     ],
     "correctAnswer": 1,
-    "explanation": "Indica cómo se realiza la acción.",
+    "explanation": "\"Rápidamente\" es un adverbio de modo porque indica cómo se realiza la acción. Los adverbios terminados en \"-mente\" se forman a partir de adjetivos.",
     "source": "Gramática."
   },
   {
     "id": 78,
     "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "“Juan y María estudian y trabajan”.",
+    "question": "En la oración \"Juan y María estudian y trabajan\", ¿cuántas conjunciones hay y de qué tipo son?",
     "options": [
       "Dos copulativas.",
       "Copulativa y adversativa.",
@@ -1166,14 +1166,14 @@
       "Sin conjunciones."
     ],
     "correctAnswer": 0,
-    "explanation": "Uso repetido de 'y'.",
+    "explanation": "Hay dos conjunciones \"y\" (copulativas): una une los sujetos \"Juan y María\" y la otra une los verbos \"estudian y trabajan\".",
     "source": "Gramática."
   },
   {
     "id": 79,
     "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "“Sin embargo”.",
+    "question": "¿Qué tipo de conector es \"sin embargo\"?",
     "options": [
       "Copulativa.",
       "Adversativa compuesta.",
@@ -1181,14 +1181,14 @@
       "Pronombre."
     ],
     "correctAnswer": 1,
-    "explanation": "Introduce contraste.",
+    "explanation": "\"Sin embargo\" es una locución conjuntiva adversativa (o conector de contraste) que introduce una idea que se opone o matiza lo dicho anteriormente.",
     "source": "Gramática."
   },
   {
     "id": 80,
     "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "¿Requiere coma tras subordinada?",
+    "question": "¿Cuáles de las siguientes oraciones requieren coma después de la subordinada inicial?",
     "options": [
       "Si llegas temprano...",
       "Mientras escuchaba...",
@@ -1196,14 +1196,14 @@
       "Todas."
     ],
     "correctAnswer": 3,
-    "explanation": "Coma tras subordinada adverbial anterior.",
+    "explanation": "Cuando una oración subordinada adverbial precede a la principal, se coloca coma después: \"Si llegas temprano, avísame\", \"Aunque llovía, salimos\".",
     "source": "Puntuación."
   },
   {
     "id": 81,
     "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "“Los estudiantes que se esfuerzan...”.",
+    "question": "En \"Los estudiantes que se esfuerzan aprueban\", la oración subordinada es:",
     "options": [
       "Sustantiva.",
       "Adverbial.",
@@ -1211,14 +1211,14 @@
       "Adjetiva explicativa."
     ],
     "correctAnswer": 2,
-    "explanation": "Delimita el sustantivo.",
+    "explanation": "\"Que se esfuerzan\" es una oración subordinada adjetiva especificativa: delimita cuáles estudiantes aprueban (solo los que se esfuerzan, no todos).",
     "source": "Gramática."
   },
   {
     "id": 82,
     "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Gerundio inadecuado (posterioridad).",
+    "question": "¿Cuál de las siguientes oraciones contiene un uso inadecuado del gerundio?",
     "options": [
       "Lloviendo...",
       "Voy caminando.",
@@ -1226,14 +1226,14 @@
       "Esperando..."
     ],
     "correctAnswer": 2,
-    "explanation": "No debe indicar acción posterior.",
+    "explanation": "El gerundio no debe expresar posterioridad. \"Entrando el sol, cerró la ventana\" es incorrecto si \"cerrar\" ocurre después de \"entrar\" el sol.",
     "source": "Gramática."
   },
   {
     "id": 83,
     "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Pretérito imperfecto correcto.",
+    "question": "¿Cuál de las siguientes oraciones usa correctamente el pretérito imperfecto?",
     "options": [
       "Comía (contexto puntual).",
       "Cuando era niño, jugaba.",
@@ -1241,14 +1241,14 @@
       "Dormía (puntual)."
     ],
     "correctAnswer": 1,
-    "explanation": "Acción habitual pasada.",
+    "explanation": "El imperfecto expresa acciones habituales o en desarrollo en el pasado: \"Cuando era niño, jugaba\" describe una acción repetida en el pasado.",
     "source": "Gramática."
   },
   {
     "id": 84,
     "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Identifique cuál de las opciones es un ejemplo de **Diptongo** (Unión de dos vocales en una misma sílaba (vocal abierta + cerrada átona, o dos cerradas)):",
+    "question": "¿Cuál de las siguientes palabras contiene un diptongo?",
     "options": [
       "Poeta (hiato).",
       "Ciudad (iu).",
@@ -1256,14 +1256,14 @@
       "Río (hiato)."
     ],
     "correctAnswer": 1,
-    "explanation": "Dos vocales en una sílaba.",
+    "explanation": "El diptongo es la unión de dos vocales en una sílaba. \"Ciudad\" (ciu-dad) tiene diptongo \"iu\" (vocal cerrada + cerrada).",
     "source": "Acentuación."
   },
   {
     "id": 85,
     "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Identifique cuál de las opciones es un ejemplo de **Hiato** (Encuentro de dos vocales que se pronuncian en sílabas distintas (vocal abierta + abierta, o vocal cerrada tónica + abierta)):",
+    "question": "¿Cuál de las siguientes palabras contiene un hiato?",
     "options": [
       "Diario.",
       "Cielo.",
@@ -1271,14 +1271,14 @@
       "Cuadro."
     ],
     "correctAnswer": 2,
-    "explanation": "Vocales en sílabas distintas.",
+    "explanation": "El hiato separa vocales en sílabas distintas. \"Tía\" (tí-a) tiene hiato porque la vocal cerrada tónica (í) se separa de la abierta (a).",
     "source": "Acentuación."
   },
   {
     "id": 86,
     "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Identifique cuál de las opciones es un ejemplo de **Triptongo** (Unión de tres vocales en una sola sílaba (vocal cerrada + abierta + cerrada)):",
+    "question": "¿Cuál de las siguientes palabras contiene un triptongo?",
     "options": [
       "Fiebre.",
       "Buey (u-e-y).",
@@ -1286,14 +1286,14 @@
       "Ahí."
     ],
     "correctAnswer": 1,
-    "explanation": "Tres vocales en una sílaba.",
+    "explanation": "El triptongo es la unión de tres vocales en una sílaba: vocal cerrada + abierta + cerrada. \"Buey\" (buey) tiene triptongo \"uey\".",
     "source": "Acentuación."
   },
   {
     "id": 87,
     "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "“Murciélago”.",
+    "question": "¿Cómo se clasifica la palabra \"murciélago\" según su acentuación?",
     "options": [
       "Grave.",
       "Aguda.",
@@ -1301,14 +1301,14 @@
       "Sobresdrújula."
     ],
     "correctAnswer": 2,
-    "explanation": "mi parser verá cié).",
+    "explanation": "\"Murciélago\" (mur-cié-la-go) es esdrújula porque el acento recae en la antepenúltima sílaba (cié). Todas las esdrújulas llevan tilde.",
     "source": "Acentuación."
   },
   {
     "id": 88,
     "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Esdrújula.",
+    "question": "¿Cuál de las siguientes palabras es esdrújula?",
     "options": [
       "Azúcar.",
       "teléfono (esdrújula).",
@@ -1316,14 +1316,14 @@
       "dímelo (esdrújula)."
     ],
     "correctAnswer": 3,
-    "explanation": "Acento en antepenúltima.",
+    "explanation": "\"Dímelo\" (dí-me-lo) es sobresdrújula (acento antes de la antepenúltima). \"Teléfono\" es esdrújula. Las opciones A y C son graves.",
     "source": "Acentuación."
   },
   {
     "id": 89,
     "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Acentuación correcta.",
+    "question": "¿Cuál de las siguientes palabras está correctamente acentuada?",
     "options": [
       "Enfasis.",
       "Camion.",
@@ -1331,14 +1331,14 @@
       "Colegio."
     ],
     "correctAnswer": 2,
-    "explanation": "Grave terminada en 'l'.",
+    "explanation": "\"Árbol\" lleva tilde porque es grave terminada en consonante distinta de n, s o vocal. \"Énfasis\" necesita tilde (esdrújula); \"camión\" también (aguda en n).",
     "source": "Acentuación."
   },
   {
     "id": 90,
     "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Palíndromo.",
+    "question": "¿Cuál de las siguientes palabras es un palíndromo?",
     "options": [
       "Radar.",
       "Baraja.",
@@ -1346,14 +1346,14 @@
       "Espejo."
     ],
     "correctAnswer": 0,
-    "explanation": "Se lee igual al revés.",
+    "explanation": "Un palíndromo se lee igual de izquierda a derecha que de derecha a izquierda: \"radar\" → r-a-d-a-r.",
     "source": "Cultura."
   },
   {
     "id": 91,
     "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "“Contrato” es:",
+    "question": "¿Qué tipo de sustantivo es la palabra \"contrato\"?",
     "options": [
       "Abstracto.",
       "Común concreto.",
@@ -1361,14 +1361,14 @@
       "Participio."
     ],
     "correctAnswer": 1,
-    "explanation": "Documento tangible.",
+    "explanation": "\"Contrato\" es un sustantivo común concreto: común porque nombra cualquier contrato (no uno específico); concreto porque designa algo tangible/perceptible.",
     "source": "Gramática."
   },
   {
     "id": 92,
     "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Modo condicional correcto.",
+    "question": "¿Cuál de las siguientes oraciones usa correctamente el modo condicional?",
     "options": [
       "Si llovería.",
       "Si llueve, quedaría.",
@@ -1376,14 +1376,14 @@
       "Si llovió."
     ],
     "correctAnswer": 2,
-    "explanation": "Estructura hipotética.",
+    "explanation": "En oraciones condicionales irreales, la prótasis lleva subjuntivo y la apódosis condicional: \"Si lloviera (subj.), quedaría (cond.) en casa\".",
     "source": "Gramática."
   },
   {
     "id": 93,
     "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Participio irregular.",
+    "question": "¿Cuál de los siguientes verbos tiene participio irregular?",
     "options": [
       "Escribido.",
       "Roto.",
@@ -1391,14 +1391,14 @@
       "Caminado."
     ],
     "correctAnswer": 1,
-    "explanation": "De romper.",
+    "explanation": "\"Roto\" es el participio irregular del verbo \"romper\". Los regulares serían \"*rompido\". Otros irregulares: escrito, dicho, hecho, visto.",
     "source": "Gramática."
   },
   {
     "id": 94,
     "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Pretérito perfecto compuesto.",
+    "question": "¿Cuál de las siguientes oraciones está en pretérito perfecto compuesto?",
     "options": [
       "Comí.",
       "He comido.",
@@ -1406,14 +1406,14 @@
       "Haya comido."
     ],
     "correctAnswer": 1,
-    "explanation": "Haber + participio.",
+    "explanation": "El pretérito perfecto compuesto se forma con \"haber\" en presente + participio: \"He comido\" (acción pasada con conexión al presente).",
     "source": "Gramática."
   },
   {
     "id": 95,
     "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "“Cuando termine, entregaré”.",
+    "question": "En la oración \"Cuando termine, entregaré el trabajo\", ¿en qué tiempo verbal está \"entregaré\"?",
     "options": [
       "Futuro compuesto.",
       "Futuro indicativo.",
@@ -1421,14 +1421,14 @@
       "Imperfecto."
     ],
     "correctAnswer": 1,
-    "explanation": "'Entregaré' es futuro simple.",
+    "explanation": "\"Entregaré\" es futuro simple de indicativo. Expresa una acción que ocurrirá después del momento de habla.",
     "source": "Gramática."
   },
   {
     "id": 96,
     "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "“Si hubieras estudiado, habrías aprobado”.",
+    "question": "La oración \"Si hubieras estudiado, habrías aprobado\" usa los tiempos verbales:",
     "options": [
       "Pluscuamperfecto ind + condicional.",
       "Perfecto comp.",
@@ -1436,14 +1436,14 @@
       "Indicativo."
     ],
     "correctAnswer": 2,
-    "explanation": "Condicional irreal.",
+    "explanation": "La estructura \"si + pluscuamperfecto de subjuntivo, condicional compuesto\" expresa una condición irreal en el pasado: algo que no ocurrió ni ocurrirá.",
     "source": "Gramática."
   },
   {
     "id": 97,
     "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Perífrasis verbal.",
+    "question": "¿Cuál de las siguientes expresiones es una perífrasis verbal?",
     "options": [
       "Voy a estudiar.",
       "Estudiaré.",
@@ -1451,14 +1451,14 @@
       "He estudiado."
     ],
     "correctAnswer": 0,
-    "explanation": "Ir + a + infinitivo.",
+    "explanation": "Una perífrasis verbal combina un verbo auxiliar + nexo + verbo principal: \"Voy a estudiar\" (ir + a + infinitivo) expresa futuro próximo.",
     "source": "Gramática."
   },
   {
     "id": 98,
     "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Refrán similar a “La cigarra y la hormiga”.",
+    "question": "¿Qué refranes transmiten un mensaje similar al de la fábula \"La cigarra y la hormiga\"?",
     "options": [
       "Mal que por bien no venga.",
       "Quien madruga.",
@@ -1466,14 +1466,14 @@
       "Todas."
     ],
     "correctAnswer": 3,
-    "explanation": "Aluden a previsión y trabajo.",
+    "explanation": "\"La cigarra y la hormiga\" enseña sobre previsión y trabajo. Los refranes \"Quien madruga, Dios lo ayuda\" y \"Más vale prevenir que lamentar\" transmiten mensajes similares.",
     "source": "Fábulas."
   },
   {
     "id": 99,
     "topic": "Gramática y Ortografía",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Tono en la fábula.",
+    "question": "¿Cuál es el tono predominante en una fábula tradicional?",
     "options": [
       "Humorístico.",
       "Trágico.",
@@ -1481,14 +1481,14 @@
       "Romántico."
     ],
     "correctAnswer": 2,
-    "explanation": "Transmite moraleja.",
+    "explanation": "El tono didáctico es característico de las fábulas: son relatos breves con moraleja que enseñan valores o lecciones de vida.",
     "source": "Samaniego."
   },
   {
     "id": 100,
     "topic": "Evaluación Crítica",
     "text": "Lee los siguientes apartados tomados de la Guía de orientación – Saber 11 del ICFES y responde las preguntas 16–20.",
-    "question": "Habilidades de evaluar argumentos.",
+    "question": "Según la guía del ICFES, ¿qué habilidades se evalúan al analizar argumentos?",
     "options": [
       "Datos superficiales.",
       "Validez, supuestos, implicaciones, retórica.",
@@ -1496,7 +1496,7 @@
       "Matemáticas."
     ],
     "correctAnswer": 1,
-    "explanation": "Capacidades críticas del ICFES.",
+    "explanation": "El ICFES evalúa la capacidad de analizar la validez de argumentos, identificar supuestos, reconocer implicaciones y detectar estrategias retóricas.",
     "source": "Guía ICFES."
   }
 ]

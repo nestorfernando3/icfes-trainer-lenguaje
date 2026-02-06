@@ -7,8 +7,10 @@ export default function ResultsSummary({ results, onRetry }) {
     // Calculate score
     const { correctCount, score } = useMemo(() => {
         let correct = 0
-        questions.forEach((q, idx) => {
-            if (answers[idx] === q.correctAnswer) {
+        questions.forEach((q) => {
+            const answer = answers[q.id];
+            // Solución robusta: comparar números para evitar problemas de tipo
+            if (answer !== undefined && Number(answer) === Number(q.correctAnswer)) {
                 correct++
             }
         })
