@@ -5,6 +5,15 @@ Todos los cambios notables en este proyecto serán documentados en este archivo.
 El formato está basado en [Keep a Changelog](https://keepachangelog.com/es-ES/1.0.0/),
 y este proyecto adhiere a [Semantic Versioning](https://semver.org/lang/es/).
 
+## [2.0.0-beta] - 2026-02-09
+
+### Añadido
+- **Nueva Asignatura**: Matemáticas.
+- **Selector de Asignatura**: Pantalla inicial para elegir entre Lectura Crítica y Matemáticas.
+- **Banco de Matemáticas**: 20 nuevas preguntas abarcando Álgebra, Geometría, Estadística y Probabilidad.
+- **Interfaz Renovada**: Tarjetas visuales para la selección de asignaturas.
+- **Mejoras en el Dashboard**: Ahora muestra el progreso diferenciado por asignaturas.
+
 ## [1.1.1] - 2026-02-06
 
 ### Omitido
