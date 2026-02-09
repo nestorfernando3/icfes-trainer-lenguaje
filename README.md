@@ -1,7 +1,10 @@
 # 🎓 ICFES Trainer - Simulador de Lectura Crítica
 
 [![Webapp](https://img.shields.io/badge/🚀_ACCEDER_A_LA_APP-4285F4?style=for-the-badge)](https://nestorfernando3.github.io/icfes-trainer-lenguaje/)
+[![Versión Beta](https://img.shields.io/badge/🧪_PROBAR_BETA_(MATEMÁTICAS)-FF5722?style=for-the-badge)](https://nestorfernando3.github.io/icfes-trainer-beta/)
 [![Licencia MIT](https://img.shields.io/badge/Licencia-MIT-green.svg?style=for-the-badge)](LICENSE)
+
+> **✨ Novedad:** ¡Ya disponible la versión con **Matemáticas**! [Haz clic aquí para probar la Beta](https://nestorfernando3.github.io/icfes-trainer-beta/).
 
 ---
 
