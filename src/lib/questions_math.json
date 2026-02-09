@@ -1,0 +1,302 @@
+[
+    {
+        "id": 101,
+        "topic": "Matemáticas",
+        "text": "En una tienda de ropa, una camisa tiene un precio de lista de $80.000. Durante una promoción, se ofrece un descuento del 25%.",
+        "question": "¿Cuál es el precio final que debe pagar un cliente por la camisa?",
+        "options": [
+            "$55.000",
+            "$60.000",
+            "$65.000",
+            "$70.000"
+        ],
+        "correctAnswer": 1,
+        "explanation": "El 25% de 80.000 es (25/100) * 80.000 = 20.000. El precio final es 80.000 - 20.000 = 60.000.",
+        "source": "Simulacro Matemáticas ICFES"
+    },
+    {
+        "id": 102,
+        "topic": "Matemáticas",
+        "text": "Un tanque de agua cilíndrico tiene un radio de base de 3 metros y una altura de 5 metros.",
+        "question": "Si el volumen de un cilindro se calcula como V = π·r²·h, ¿cuál es el volumen del tanque en metros cúbicos?",
+        "options": [
+            "15π m³",
+            "30π m³",
+            "45π m³",
+            "75π m³"
+        ],
+        "correctAnswer": 2,
+        "explanation": "V = π·(3)²·5 = π·9·5 = 45π.",
+        "source": "Simulacro Matemáticas ICFES"
+    },
+    {
+        "id": 103,
+        "topic": "Matemáticas",
+        "text": "En una caja hay 4 bolas rojas, 3 bolas azules y 3 bolas verdes.",
+        "question": "Si se extrae una bola al azar, ¿cuál es la probabilidad de que sea azul?",
+        "options": [
+            "3/10",
+            "1/3",
+            "3/7",
+            "1/10"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Total de bolas = 4 + 3 + 3 = 10. Bolas azules = 3. Probabilidad = 3/10.",
+        "source": "Simulacro Matemáticas ICFES"
+    },
+    {
+        "id": 104,
+        "topic": "Matemáticas",
+        "text": "Las edades de un grupo de 5 amigos son: 18, 20, 18, 22, 22.",
+        "question": "¿Cuál es el promedio (media aritmética) de las edades?",
+        "options": [
+            "19 años",
+            "20 años",
+            "21 años",
+            "22 años"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Suma de edades = 18+20+18+22+22 = 100. Promedio = 100 / 5 = 20.",
+        "source": "Simulacro Matemáticas ICFES"
+    },
+    {
+        "id": 105,
+        "topic": "Matemáticas",
+        "text": "Un plan de telefonía móvil cobra un cargo fijo mensual de $20.000 más $200 por cada minuto consumido.",
+        "question": "Si C es el costo total y x es la cantidad de minutos consumidos, ¿cuál de las siguientes ecuaciones modela la situación?",
+        "options": [
+            "C = 20000x + 200",
+            "C = 200x + 20000",
+            "C = 20000 - 200x",
+            "C = 200(x + 20000)"
+        ],
+        "correctAnswer": 1,
+        "explanation": "El costo fijo es 20000 (constante) y el costo variable es 200 por x minutos. C = 200x + 20000.",
+        "source": "Simulacro Matemáticas ICFES"
+    },
+    {
+        "id": 106,
+        "topic": "Matemáticas",
+        "text": "Se tiene un triángulo rectángulo cuyos catetos miden 6 cm y 8 cm.",
+        "question": "¿Cuál es la medida de la hipotenusa?",
+        "options": [
+            "10 cm",
+            "12 cm",
+            "14 cm",
+            "100 cm"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Por teorema de Pitágoras: h² = 6² + 8² = 36 + 64 = 100. h = √100 = 10.",
+        "source": "Simulacro Matemáticas ICFES"
+    },
+    {
+        "id": 107,
+        "topic": "Matemáticas",
+        "text": "Un automóvil recorre 300 km en 4 horas manteniendo una velocidad constante.",
+        "question": "¿Cuántos kilómetros recorrerá en 7 horas a la misma velocidad?",
+        "options": [
+            "450 km",
+            "525 km",
+            "600 km",
+            "550 km"
+        ],
+        "correctAnswer": 1,
+        "explanation": "Velocidad = 300 / 4 = 75 km/h. Distancia en 7h = 75 * 7 = 525 km.",
+        "source": "Simulacro Matemáticas ICFES"
+    },
+    {
+        "id": 108,
+        "topic": "Matemáticas",
+        "text": "Analice la siguiente serie numérica: 3, 6, 12, 24, ...",
+        "question": "¿Cuál es el siguiente número en la serie?",
+        "options": [
+            "30",
+            "36",
+            "48",
+            "60"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Cada número es el doble del anterior. 24 * 2 = 48.",
+        "source": "Simulacro Matemáticas ICFES"
+    },
+    {
+        "id": 109,
+        "topic": "Matemáticas",
+        "text": "Dada la función f(x) = x² - 4x + 3.",
+        "question": "¿Cuál es el valor de f(2)?",
+        "options": [
+            "-1",
+            "0",
+            "1",
+            "2"
+        ],
+        "correctAnswer": 0,
+        "explanation": "f(2) = (2)² - 4(2) + 3 = 4 - 8 + 3 = -1.",
+        "source": "Simulacro Matemáticas ICFES"
+    },
+    {
+        "id": 110,
+        "topic": "Matemáticas",
+        "text": "En una encuesta sobre la fruta favorita de 100 personas, el 40% eligió manzana, el 30% banano y el resto naranja.",
+        "question": "¿Cuántas personas eligieron naranja?",
+        "options": [
+            "20",
+            "30",
+            "40",
+            "10"
+        ],
+        "correctAnswer": 1,
+        "explanation": "El porcentaje restante es 100% - 40% - 30% = 30%. El 30% de 100 es 30.",
+        "source": "Simulacro Matemáticas ICFES"
+    },
+    {
+        "id": 111,
+        "topic": "Matemáticas",
+        "text": "En una clase de 30 estudiantes, el 60% son mujeres. Si se eligen 2 estudiantes al azar sin reposición para representar al curso.",
+        "question": "¿Cuál es la probabilidad de que ambos sean mujeres?",
+        "options": [
+            "18/30 * 17/29",
+            "18/30 * 18/30",
+            "60/100 * 59/100",
+            "12/30 * 11/29"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Número de mujeres = 0.6 * 30 = 18. Probabilidad primera mujer = 18/30. Probabilidad segunda mujer (al quedar 29 estudiantes y 17 mujeres) = 17/29. Probabilidad conjunta = (18/30) * (17/29).",
+        "source": "Simulacro Matemáticas ICFES"
+    },
+    {
+        "id": 112,
+        "topic": "Matemáticas",
+        "text": "Un edificio proyecta una sombra de 10 metros cuando el ángulo de elevación del sol es de 45°.",
+        "question": "¿Cuál es la altura del edificio?",
+        "options": [
+            "5 metros",
+            "10 metros",
+            "10√2 metros",
+            "20 metros"
+        ],
+        "correctAnswer": 1,
+        "explanation": "En un triángulo rectángulo con un ángulo de 45°, los catetos son iguales (triángulo isósceles). Si la sombra (cateto adyacente) mide 10m, la altura (cateto opuesto) también mide 10m. Tan(45°) = Opuesto/Adyacente = 1 -> Opuesto = Adyacente.",
+        "source": "Simulacro Matemáticas ICFES"
+    },
+    {
+        "id": 113,
+        "topic": "Matemáticas",
+        "text": "Se define la operación ♦ entre dos números reales a y b como a ♦ b = 2a - b.",
+        "question": "¿Cuál es el valor de 3 ♦ (4 ♦ 2)?",
+        "options": [
+            "0",
+            "-2",
+            "4",
+            "6"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Primero resolvemos el paréntesis: 4 ♦ 2 = 2(4) - 2 = 8 - 2 = 6. Luego resolvemos 3 ♦ 6 = 2(3) - 6 = 6 - 6 = 0.",
+        "source": "Simulacro Matemáticas ICFES"
+    },
+    {
+        "id": 114,
+        "topic": "Matemáticas",
+        "text": "Un tanque contiene 100 litros de agua con 5 kg de sal disuelta. Se empieza a bombear agua pura al tanque a razón de 10 litros por minuto, y la mezcla (homogénea) sale del tanque a la misma velocidad.",
+        "question": "¿Qué le sucede a la concentración de sal en el tanque a medida que pasa el tiempo?",
+        "options": [
+            "Aumenta indefinidamente.",
+            "Se mantiene constante en 5 kg.",
+            "Disminuye acercándose a cero.",
+            "Disminuye hasta llegar a 1 kg y se estabiliza."
+        ],
+        "correctAnswer": 2,
+        "explanation": "Al entrar agua pura (sin sal) y salir mezcla con sal, la cantidad total de sal en el tanque disminuye progresivamente. A largo plazo (t -> infinito), la concentración de sal tenderá a cero.",
+        "source": "Simulacro Matemáticas ICFES"
+    },
+    {
+        "id": 115,
+        "topic": "Matemáticas",
+        "text": "Si el lado de un cuadrado se aumenta en un 10%.",
+        "question": "¿En qué porcentaje aumenta su área?",
+        "options": [
+            "10%",
+            "20%",
+            "21%",
+            "100%"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Sea L el lado original, Área = L². Nuevo lado = 1.1L. Nueva Área = (1.1L)² = 1.21L². El área aumenta de 1L² a 1.21L², lo que representa un aumento del 21%.",
+        "source": "Simulacro Matemáticas ICFES"
+    },
+    {
+        "id": 116,
+        "topic": "Matemáticas",
+        "text": "En una rifa de 100 boletas numeradas del 00 al 99, Ana compró todas las boletas que terminan en 5.",
+        "question": "¿Cuál es la probabilidad de que Ana gane la rifa?",
+        "options": [
+            "1/100",
+            "5/100",
+            "1/10",
+            "1/5"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Las boletas terminadas en 5 son: 05, 15, 25, ..., 95. Hay 10 boletas en total. Probabilidad = Casos Favorables / Casos Totales = 10/100 = 1/10.",
+        "source": "Simulacro Matemáticas ICFES"
+    },
+    {
+        "id": 117,
+        "topic": "Matemáticas",
+        "text": "Para construir una cerca alrededor de un terreno rectangular de 20 metros de largo y 15 metros de ancho, se deben colocar postes cada 5 metros.",
+        "question": "¿Cuántos postes se necesitan en total?",
+        "options": [
+            "14",
+            "15",
+            "16",
+            "70"
+        ],
+        "correctAnswer": 0,
+        "explanation": "Perímetro = 2(20) + 2(15) = 40 + 30 = 70 metros. Número de espacios = 70 / 5 = 14. En una figura cerrada (como el rectángulo), el número de postes es igual al número de espacios = 14.",
+        "source": "Simulacro Matemáticas ICFES"
+    },
+    {
+        "id": 118,
+        "topic": "Matemáticas",
+        "text": "Una bacteria se reproduce por bipartición cada 20 minutos (se duplica). Si inicialmente hay 1 bacteria.",
+        "question": "¿Cuántas bacterias habrá después de 2 horas?",
+        "options": [
+            "16",
+            "32",
+            "64",
+            "128"
+        ],
+        "correctAnswer": 2,
+        "explanation": "2 horas = 120 minutos. Número de periodos de 20 min = 120/20 = 6 periodos. Cantidad = 1 * 2^6 = 64.",
+        "source": "Simulacro Matemáticas ICFES"
+    },
+    {
+        "id": 119,
+        "topic": "Matemáticas",
+        "text": "La suma de tres números enteros consecutivos es 45.",
+        "question": "¿Cuál es el número mayor?",
+        "options": [
+            "14",
+            "15",
+            "16",
+            "13"
+        ],
+        "correctAnswer": 2,
+        "explanation": "Sean x, x+1, x+2 los números. x + (x+1) + (x+2) = 45 -> 3x + 3 = 45 -> 3x = 42 -> x = 14. Los números son 14, 15 y 16. El mayor es 16.",
+        "source": "Simulacro Matemáticas ICFES"
+    },
+    {
+        "id": 120,
+        "topic": "Matemáticas",
+        "text": "En un sistema de coordenadas cartesianas, una recta pasa por los puntos (0, 2) y (4, 0).",
+        "question": "¿Cuál es la pendiente de la recta?",
+        "options": [
+            "2",
+            "-2",
+            "1/2",
+            "-1/2"
+        ],
+        "correctAnswer": 3,
+        "explanation": "Pendiente m = (y2 - y1) / (x2 - x1) = (0 - 2) / (4 - 0) = -2 / 4 = -1/2.",
+        "source": "Simulacro Matemáticas ICFES"
+    }
+]

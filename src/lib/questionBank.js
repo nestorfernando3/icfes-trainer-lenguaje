@@ -1,6 +1,7 @@
 import questions from './questions.json';
+import mathQuestions from './questions_math.json';
 
-export const questionBank = questions;
+export const questionBank = [...questions, ...mathQuestions];
 
 export const getQuestions = (category = 'all') => {
   return new Promise((resolve) => {

@@ -7,6 +7,7 @@ const categoryMeta = {
     'Evaluación Crítica': { icon: '🧠', color: '#10b981' },
     'Figuras Retóricas': { icon: '✨', color: '#ec4899' },
     'Gramática y Ortografía': { icon: '📝', color: '#8b5cf6' },
+    'Matemáticas': { icon: '📐', color: '#ef4444' },
     'default': { icon: '📚', color: '#06b6d4' }
 }
 
