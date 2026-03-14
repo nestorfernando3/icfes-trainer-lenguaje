@@ -2,6 +2,27 @@
   "name": "proyecto-icfes",
   "private": true,
   "version": "1.1.1",
+  "description": "Open-source Saber 11 reading practice web app for Spanish-speaking students.",
+  "license": "MIT",
+  "author": "Nestor Fernando De Leon Llanos",
+  "homepage": "https://github.com/nestorfernando3/icfes-trainer-lenguaje",
+  "bugs": {
+    "url": "https://github.com/nestorfernando3/icfes-trainer-lenguaje/issues"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/nestorfernando3/icfes-trainer-lenguaje.git"
+  },
+  "keywords": [
+    "education",
+    "colombia",
+    "icfes",
+    "saber11",
+    "react",
+    "vite",
+    "spanish",
+    "webapp"
+  ],
   "type": "module",
   "scripts": {
     "dev": "vite",

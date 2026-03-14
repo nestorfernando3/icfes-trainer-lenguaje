@@ -14,6 +14,14 @@
 
 Accede desde cualquier dispositivo con navegador. No requiere instalación.
 
+## Open Source de un vistazo
+
+- **Licencia:** MIT
+- **Estado:** mantenimiento activo
+- **Audiencia principal:** estudiantes, docentes y colaboradores EdTech en habla hispana
+- **Señales públicas:** despliegue abierto, changelog, issues y repositorio público mantenido
+- **Cómo contribuir:** revisa [CONTRIBUTING.md](./CONTRIBUTING.md), [SUPPORT.md](./SUPPORT.md) y [SECURITY.md](./SECURITY.md)
+
 ---
 
 ## 📖 ¿Qué es esto?
@@ -68,6 +76,13 @@ Este proyecto es de código abierto bajo la [Licencia MIT](LICENSE). Puedes usar
 ## 🤝 Contribuir
 
 ¿Encontraste un error o tienes sugerencias? Abre un [issue](https://github.com/nestorfernando3/icfes-trainer-lenguaje/issues) o envía un pull request.
+
+## 🆘 Soporte y comunidad
+
+- **Bugs:** comparte pasos de reproducción, navegador y captura si aplica.
+- **Ideas de mejora:** prioriza explicar el problema de aprendizaje o práctica que quieres resolver.
+- **Seguridad o hallazgos sensibles:** consulta [SECURITY.md](./SECURITY.md).
+- **Uso pedagógico:** si quieres adaptar el proyecto a más áreas o contextos, consulta [SUPPORT.md](./SUPPORT.md).
 
 ---
 
